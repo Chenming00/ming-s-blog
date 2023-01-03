@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Title -->
+<title>归档 - Vincent&#39;s Notes</title>
+
+<!-- Icon -->
+<link rel="icon" href="https://static.nisekoo.com/blog/20230104uZXT8s.ico">
+
+<!-- Fonts -->
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@0;1&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" as="style" onload="this.onload=null, this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@0;1&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"></noscript>
+
+
+
+<!-- Style -->
+
+<link rel="stylesheet" href="/styles/main.css">
+
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-theme-pure@1.0.1/dist/main.css"> -->
+
+
+
+
+
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+
+
+    <meta name="generator" content="Hexo 6.3.0"></head>
+    <body>
+        <div class="main gt-bg-theme-color-first">
+            <div class="main-content">
+                <nav class="navbar navbar-expand-lg">
+    <a class="navbar-brand" href="/">
+        <img class="user-avatar" src="https://static.nisekoo.com/blog/202301046sQMwS.png" alt="头像">
+        <div class="site-name gt-c-content-color-first">
+            Vincent&#39;s Notes
+        </div>
+    </a>
+    <button aria-label="Navbar Toggler" class="navbar-toggler" type="button" id="changeNavbar">
+        <i class="gt-c-content-color-first" style="font-size: 18px;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18px" fill="currentColor">
+                <path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z" />
+            </svg>
+        </i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="navbar-nav mr-auto" style="text-align: center; ">
+            
+                <div class="nav-item">
+                    <a href="/" class="menu gt-a-link" target="_self">Home</a>
+                </div>
+            
+                <div class="nav-item">
+                    <a href="/archives/" class="menu gt-a-link" target="_self">Archives</a>
+                </div>
+            
+                <div class="nav-item">
+                    <a href="/tags/" class="menu gt-a-link" target="_self">Tags</a>
+                </div>
+            
+                <div class="nav-item">
+                    <a href="/about/" class="menu gt-a-link" target="_self">About</a>
+                </div>
+            
+                <div class="nav-item">
+                    <a href="/friends/" class="menu gt-a-link" target="_self">Friends</a>
+                </div>
+            
+        </div>
+    </div>
+</nav>
+
+<script>
+    /* 移动端导航栏展开/收起切换 */
+    document.getElementById('changeNavbar').onclick = function() {
+        let element = document.getElementById('navbarSupportedContent');
+        if (element.style.display === 'none' || element.style.display === '') {
+            element.style.display = 'block';
+        } else { 
+            element.style.display = 'none';
+        }
+    }
+</script>
+
+                <!--
+ * @Author: Vincent Young
+ * @Date: 2023-01-03 23:04:57
+ * @LastEditors: Vincent Young
+ * @LastEditTime: 2023-01-04 01:42:08
+ * @FilePath: /hexo-blog/themes/pure/layout/archive.ejs
+ * @Telegram: https://t.me/missuo
+ * 
+ * Copyright © 2023 by Vincent, All Rights Reserved. 
+-->
+<div class="archives-container gt-bg-theme-color-second">
+    <div class="gt-post-content">
+        
+        
+            <h2 id="year-2022" class="year gt-c-content-color-first">2022</h2>
+            
+                <h3 id="year-2022-month-11">11</h3>
+            
+            
+                
+                    <div class="post" style="margin-left: 15px;">
+                        <a href="/twitter-nft-avatar/">
+                            <div class="post-title gt-c-content-color-first">
+                                <small><b>2022-11-06</b></small>
+                                <div class="archives-post-title">Twitter using NFT avatar</div>
+                            </div>
+                        </a>
+                    </div>
+                
+            
+        
+    </div>
+</div>
+
+<div class="pagination-container">
+    
+    
+</div>
+
+                <div class="site-footer gt-c-content-color-first">
+    <div class="site-footer">
+        <p id="hitokoto"><a href="#" id="hitokoto_text">:D 获取中...</a></p>
+        <script>
+            fetch('https://v1.hitokoto.cn')
+                .then(response => response.json())
+                .then(data => {
+                    const hitokoto = document.getElementById('hitokoto_text')
+                    //hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
+                    hitokoto.innerText = data.hitokoto
+                })
+                .catch(console.error)
+        </script>
+    </div>
+    <div class="site-footer">
+        <p id="visitor"></p>
+        <script>
+            fetch('https://api-ipv4.ip.sb/geoip')
+                .then(response => response.json())
+                .then(data => {
+                    const visitor = document.getElementById('visitor')
+                    visitor.innerText = data.ip + " · " + data.country + " · AS" + data.asn + " · " + data
+                        .asn_organization
+                })
+                .catch(console.error)
+        </script>
+    </div>
+    <div class="site-footer">
+        Copyright © 2020 - <script>
+            document.write(new Date().getFullYear())
+        </script> <a href="#" target="_blank">Vincent's Notes</a> · Powered by <a href="https://as206729.com"
+            target="_blank">AS206729</a>
+    </div>
+</div>
+            </div>
+        </div>
+    </body>
+</html>
