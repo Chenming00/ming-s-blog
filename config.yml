@@ -66,7 +66,7 @@ params:
     comments: true
     ShowAllPagesInArchive: true
     ShowFullTextinRSS: true
-    images: ["papermod-cover.png"]
+    # images: ["papermod-cover.png"]
 
     mainSections:
         - posts
@@ -93,6 +93,8 @@ params:
           url: "https://www.tiktok.com/@m1ssuo"
         - name: youtube
           url: "https://youtube.com/@missuo"
+        - name: rss
+          url: "https://missuo.me/index.xml"
 
     assets:
         disableHLJS: false
