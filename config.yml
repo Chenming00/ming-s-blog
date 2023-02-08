@@ -52,7 +52,7 @@ params:
     description: "Vincent's Notes"
     author: Vincent Young
     DateFormat: "January 2, 2006"
-    defaultTheme: auto
+    defaultTheme: light
     disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
