@@ -21,7 +21,7 @@ languages:
         languageName: "English"
         weight: 1
         taxonomies:
-          category: categories
+          # category: categories
           tag: tags
           series: series
         menu:
