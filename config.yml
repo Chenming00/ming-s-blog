@@ -77,7 +77,7 @@ params:
     homeInfoParams:
         Title: "Hi there 👋"
         Content: >
-            I'm **Vincent Young**, operator of [AS206729](https://bgp.he.net/as206729). I am a computer science student and I am currently preparing my application for graduate school. I am a **BGP** and **Linux** enthusiast, and an open source project contributor. You can get to know me on the [about](https://missuo.me/about) page.
+            I'm **Vincent Young**, operator of [AS206729](https://bgp.he.net/AS206729). I am a computer science student and I am currently preparing my application for graduate school. I am a **BGP** and **Linux** enthusiast, and an open source project contributor. You can get to know me on the [about](https://missuo.me/about) page.
     socialIcons:
         - name: github
           url: "https://github.com/missuo"
@@ -95,7 +95,7 @@ params:
           url: "https://youtube.com/@missuo"
 
     assets:
-        disableHLJS: true
+        disableHLJS: false
         favicon: "https://static.nisekoo.com/blog/20230104uZXT8s.ico"
     #     favicon16x16: "<link / abs url>"
     #     favicon32x32: "<link / abs url>"
@@ -125,5 +125,5 @@ markup:
         anchorLineNos: true
         codeFences: true
         guessSyntax: true
-        lineNos: true
+        lineNos: false
         style: darcula
