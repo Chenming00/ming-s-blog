@@ -12,6 +12,7 @@ tags: ["Weibo", "Clickhouse"]
 ## Data Import
 1. First you need to deploy Clickhouse and finish creating a brand new database.  
 2. Create two tables.  
+
 Table For Query Weibo Uid.
 ```sql
 CREATE TABLE wb_uid(
@@ -21,7 +22,7 @@ mobile String
     ORDER BY  (uid)
     PRIMARY KEY (uid);
 ```
-Table For Query Mobile Phone Number
+Table For Query Mobile Phone Number  
 ```sql
 CREATE TABLE wb_mobile(
 uid String,
