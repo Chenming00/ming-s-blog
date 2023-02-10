@@ -30,7 +30,7 @@ Plus版本有两个模式，分别是 **Default** 和 **Turbo**。
 ChatGPT封锁了很多机房的IP，因为ChatGPT使用的是[Cloudflare](https://cloudflare.com)的服务，我猜测是使用了**Country**匹配，也就是说只有在指定国家可用，目前是161个国家。除此之外，应该还加入了**Threat Score**和**Known Bots**的判断。意味着你的IP要想顺利访问，需要具备两个条件，IP属于来自161个国家之一，并且你的IP危险分数足够低。  
 
 ### 我的方案
-在2022年3月28日，我在RIPE申请到了ASN，也就意味着我可以持有IPv4和IPv6，我目前持有两个/48的IPv6。我目前的IPv6分别来自**台湾**和**英国**，都在161个国家之内，危险分数是0分。我建立了BGP Session，完全可以使用自己的IP来访问OpenAI的服务。  
+在2022年3月28日，我在RIPE申请到了ASN，也就意味着我可以持有IPv4和IPv6，我目前持有两个/48的IPv6。我目前的IPv6分别来自**台湾**和**英国**，都在161个国家之内，危险分数都是0。我建立了BGP Session，完全可以使用自己的IP来访问OpenAI的服务。  
 ![20230211Dlnlje](https://static.nisekoo.com/blog/20230211Dlnlje.png)
 ```
 Prefixes:
