@@ -12,13 +12,12 @@ tags: [ChatGPT, ChatGPT Plus, OpenAI]
 
 ## 订阅
 ### 正常方式
-填写表格并等待官方给你发送电子邮件获取资格。  
-[https://docs.google.com/forms/d/e/1FAIpQLScee6ST3o-kZDjlw1ROfUNyjuRBwGdcoewxjCULNejbP5hdzQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLScee6ST3o-kZDjlw1ROfUNyjuRBwGdcoewxjCULNejbP5hdzQ/viewform)
+填写[表格](https://docs.google.com/forms/d/e/1FAIpQLScee6ST3o-kZDjlw1ROfUNyjuRBwGdcoewxjCULNejbP5hdzQ/viewform)并等待官方给你发送电子邮件获取资格。
 
 ### 漏洞
 在中国时间的2月10日下午，看到群里有很多朋友说出现了**Upgrade Plan**的按钮，我立即登陆了我的帐号发现确实也有了，但是因为中国信用卡无法支付，导致开通失败。2月11日我再次登录的时候发现已经消失了这个按钮。  
 
-我翻看了我的**Chrome历史记录**，找到了一个[pay.openai.com](https://pay.openai.com)的链接，点进去发现还是熟悉的**Stripe**的界面。但是奇怪的事情是**我无法填写地址信息**，但是没有地址信息无法提交。无奈之下，当然是按下F12，找到填写地址的每一个`input`标签，把`diable`全部改为`enable`，顺利地填写了信息。在我的好朋友**Ming C**的帮助下，用他的美国卡支付，没有显示成功的界面，一直显示处理中，但是收到了订阅成功的邮件。回到[chat.openai.com](https://chat.openai.com)发现已经开通好了。
+我翻看了我的**Chrome历史记录**，找到了一个 [pay.openai.com](https://pay.openai.com) 的链接，点进去发现还是熟悉的**Stripe**的界面。但是奇怪的事情是**我无法填写地址信息**，但是没有地址信息无法提交。无奈之下，当然是按下F12，找到填写地址的每一个**input**标签，把**diable**全部改为**enable**，顺利地填写了信息。在我的好朋友**Ming C**的帮助下，用他的美国卡支付，没有显示成功的界面，一直显示处理中，但是收到了订阅成功的邮件。回到 [chat.openai.com](https://chat.openai.com) 发现已经开通好了。
 
 ## 体验
 Plus版本有两个模式，分别是 **Default** 和 **Turbo**。  
@@ -28,10 +27,10 @@ Plus版本有两个模式，分别是 **Default** 和 **Turbo**。
 
 ## IP的问题
 ### 无法访问
-ChatGPT封锁了很多机房的IP，因为ChatGPT使用的是[Cloudflare](https://cloudflare.com)的服务，我猜测是使用了`Country`匹配，也就是说只有在指定国家可用，目前是161个国家。除此之外，应该还加入了`Threat Score`和`Known Bots`的判断。意味着你的IP要想顺利访问，需要具备两个条件，IP属于来自161个国家之一，并且你的IP危险分数足够低。  
+ChatGPT封锁了很多机房的IP，因为ChatGPT使用的是[Cloudflare](https://cloudflare.com)的服务，我猜测是使用了**Country**匹配，也就是说只有在指定国家可用，目前是161个国家。除此之外，应该还加入了**Threat Score**和**Known Bots**的判断。意味着你的IP要想顺利访问，需要具备两个条件，IP属于来自161个国家之一，并且你的IP危险分数足够低。  
 
 ### 我的方案
-在2022年3月28日，我在RIPE申请到了ASN，也就意味着我可以持有IPv4和IPv6，我目前持有两个`/48`的IPv6。我目前的IPv6分别来自`台湾`和`英国`，都在161个国家之内，危险分数是0分。我建立了BGP Session，完全可以使用自己的IP来访问OpenAI的服务。  
+在2022年3月28日，我在RIPE申请到了ASN，也就意味着我可以持有IPv4和IPv6，我目前持有两个/48的IPv6。我目前的IPv6分别来自**台湾**和**英国**，都在161个国家之内，危险分数是0分。我建立了BGP Session，完全可以使用自己的IP来访问OpenAI的服务。  
 ![20230211Dlnlje](https://static.nisekoo.com/blog/20230211Dlnlje.png)
 ```
 Prefixes:
