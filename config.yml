@@ -51,7 +51,7 @@ params:
     env: production
     description: "Vincent's Notes"
     author: Vincent Young
-    DateFormat: "January 2, 2006"
+    DateFormat: "Mon, 02 Jan 2006 15:04:05 +0800"
     defaultTheme: light
     disableThemeToggle: false
     ShowShareButtons: false
