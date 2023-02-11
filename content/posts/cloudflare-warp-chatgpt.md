@@ -1,5 +1,5 @@
 ---
-title: "Unlock Chat GPT with Cloudflare WARP"
+title: "Unlock ChatGPT with Cloudflare WARP"
 date: 2023-02-11T13:33:35+08:00
 draft: false
 ---
