@@ -1,5 +1,5 @@
 ---
-title: "Brew Version Update"
+title: "Automatically update Homebrew versions using Action"
 date: 2023-03-04T02:42:51+08:00
 draft: false
 tags: [Homebrew, Casks, Formula]
