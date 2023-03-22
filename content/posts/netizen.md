@@ -1,7 +1,7 @@
 ---
 title: "Netizen"
 date: 2023-03-23T01:58:26+08:00
-draft: true
+draft: false
 tags: [Essay]
 ---
 
