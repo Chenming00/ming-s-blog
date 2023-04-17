@@ -5,7 +5,7 @@ draft: false
 tags: [Bank, Hong Kong, Debit Card]
 ---
 
-> 本篇文章的部分信息来自于 推友[@forecho](https://twitter.com/forecho)的[来香港办香港银行卡](https://blog.forecho.com/coming-to-hong-kong-to-get-a-hong-kong-bank-card.html)。感谢！
+> 本篇文章的部分信息来自于 推友[@forecho](https://twitter.com/caizhenghai)的[来香港办香港银行卡](https://blog.forecho.com/coming-to-hong-kong-to-get-a-hong-kong-bank-card.html)。感谢！
 
 ## 前往香港
 这里我就简单说了，我这次的旅程有些复杂，HGH飞往ZUH。巴士到达拱北口岸，拱北口岸巴士到达深圳大学站。第二天从深圳湾口岸B3X前往屯门市中心（当然深圳湾口岸有巴士直接去市中心的，比如前往尖沙咀）。我是屯马线屯门站上车，美孚站换乘荃湾线到金钟站，再换乘港岛线到湾仔站。到达时间是4月14日周五下午三点左右，依次去了forecho推荐的**湾仔分行**和**铜锣湾分行**，都被告知今天名额满了。出门刚好看到附近还有HSBC HK，也进去问了一下，被告知如果没有预约的话无法办理，目前预约已经排到了五月份。
