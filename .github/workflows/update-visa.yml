@@ -12,6 +12,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
       - name: Set up Python 3.8
         uses: actions/setup-python@v4
         with:
@@ -25,5 +27,6 @@ jobs:
           python scripts/update-visa.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          token: ${{ secrets.PAT }}
+          commit_user_name: missuo
+          commit_user_email: missuo@pm.me
           commit_message: Update US Visa Time
