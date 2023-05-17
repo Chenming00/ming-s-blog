@@ -2,7 +2,7 @@
 Author: Vincent Young
 Date: 2023-05-17 19:59:40
 LastEditors: Vincent Young
-LastEditTime: 2023-05-17 21:25:01
+LastEditTime: 2023-05-17 21:46:07
 FilePath: /missuo.github.io/scripts/update-visa.py
 Telegram: https://t.me/missuo
 
@@ -73,7 +73,7 @@ def finishMd():
 [https://travel.state.gov](https://travel.state.gov)
 
 ## Author
-**USVisa** © [Vincent Young](https://github.com/missuo), Released under the [MIT](./LICENSE) License.<br>
+**USVisa** © [Vincent Young](https://github.com/missuo), Released under the [MIT](https://github.com/missuo/USVisa/raw/main/LICENSE) License.<br>
     """
     with open("content/posts/us-visa.md", 'a') as file:
         file.write(content)
