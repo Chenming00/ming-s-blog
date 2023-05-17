@@ -10,7 +10,7 @@ tags: [US, Visa]
 
 ## Information
 
-**Last updated on: 2023-05-17 21:44:35** (Updated every 3 hours)
+**Last updated on: 2023-05-17 21:47:40** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
@@ -115,5 +115,5 @@ tags: [US, Visa]
 [https://travel.state.gov](https://travel.state.gov)
 
 ## Author
-**USVisa** © [Vincent Young](https://github.com/missuo), Released under the [MIT](./LICENSE) License.<br>
+**USVisa** © [Vincent Young](https://github.com/missuo), Released under the [MIT](https://github.com/missuo/USVisa/raw/main/LICENSE) License.<br>
     
