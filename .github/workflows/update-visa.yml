@@ -1,7 +1,9 @@
-name: Update US Visa Time Information
+name: update-us-visa-time
 
 on: 
   push:
+    branches:
+      - master
   workflow_dispatch:
   schedule:
     - cron: "0 */3 * * *"
