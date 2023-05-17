@@ -2,7 +2,7 @@
 Author: Vincent Young
 Date: 2023-05-17 19:59:40
 LastEditors: Vincent Young
-LastEditTime: 2023-05-17 21:21:48
+LastEditTime: 2023-05-17 21:25:01
 FilePath: /missuo.github.io/scripts/update-visa.py
 Telegram: https://t.me/missuo
 
@@ -44,7 +44,7 @@ tags: [US, Visa]
 
 **Last updated on: {}** (Updated every 3 hours)
     """.format(formattedDatetime)
-    with open("../content/posts/us-visa.md", 'w') as file:
+    with open("content/posts/us-visa.md", 'w') as file:
         file.write(initContent)
 
 def addTable(timeList, embassyName, embassyCode):
@@ -63,7 +63,7 @@ def addTable(timeList, embassyName, embassyCode):
 
 
     """.format(embassyName, embassyCode, timeList[0], getWorkdayAfterDays(timeList[0]), timeList[1], getWorkdayAfterDays(timeList[1]), timeList[2], getWorkdayAfterDays(timeList[2]), timeList[3], getWorkdayAfterDays(timeList[3]), timeList[4], getWorkdayAfterDays(timeList[4]), timeList[5], getWorkdayAfterDays(timeList[5]), timeList[6], getWorkdayAfterDays(timeList[6]), timeList[7], getWorkdayAfterDays(timeList[7]))
-    with open("../content/posts/us-visa.md", 'a') as file:
+    with open("content/posts/us-visa.md", 'a') as file:
         file.write(tableContent)
 
 def finishMd():
@@ -75,7 +75,7 @@ def finishMd():
 ## Author
 **USVisa** © [Vincent Young](https://github.com/missuo), Released under the [MIT](./LICENSE) License.<br>
     """
-    with open("../content/posts/us-visa.md", 'a') as file:
+    with open("content/posts/us-visa.md", 'a') as file:
         file.write(content)
 
 def getTimeList(embassyCode):
