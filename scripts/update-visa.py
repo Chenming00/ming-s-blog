@@ -18,13 +18,9 @@ def getWorkdayAfterDays(numDays):
         hkTimeZone = pytz.timezone('Asia/Hong_Kong')
         hkCurrentDatetime = datetime.datetime.now(tz=hkTimeZone)
         startDate = hkCurrentDatetime.date()
-        count = 0
-        while count < numDays:
-            startDate += datetime.timedelta(days=1)
-            if startDate.weekday() < 5:
-                count += 1
-        resultDate = startDate.strftime('%Y-%m-%d')
-        return resultDate
+        resultDate = startDate + datetime.timedelta(days=numDays)
+        resultDays = resultDate.strftime('%Y-%m-%d')
+        return resultDays
 
 def initializeMd():
     hkTimeZone = pytz.timezone('Asia/Hong_Kong')
