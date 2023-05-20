@@ -20,7 +20,7 @@ tags: [ChatGPT, ChatGPT Plus, OpenAI, WARP, Cloudflare]
 bash <(curl -fsSL git.io/warp.sh) proxy
 ```
 
-3. 配置XrayR/V2Ray的出站规则和路由。（以XrayR为例，XrayR/V2Ray的使用本文略过）
+3. 配置 XrayR/V2Ray 的出站规则和路由。（以 XrayR 为例，XrayR/V2Ray 的使用本文略过）
 ```json
 # custom_outbound.json
 {
@@ -40,9 +40,9 @@ bash <(curl -fsSL git.io/warp.sh) proxy
     "ip": ["::/0"]
 }
 ```
-简单解释一下，出站规则是指出站走40000端口的SOCKS代理。路由规则是指所有IPv6出站均走SOCKS代理。
+简单解释一下，出站规则是指出站走 40000 端口的 SOCKS 代理。路由规则是指所有 IPv6 出站均走 SOCKS 代理。
 
-4. 如果你只是想让OpenAI走WARP的IPv6，可以这样写。
+4. 如果你只是想让 OpenAI 走 WARP 的 IPv6，可以这样写。
 ```json
 # route.json
 {
