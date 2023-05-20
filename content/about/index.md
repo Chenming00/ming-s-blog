@@ -13,7 +13,7 @@ This site is mainly used for the personal life of the blogger.
 - Vincent(YingTao) Young
 - Libra, born on October 10, 2000
 - From Zhejiang, usually living in Shanghai
-- College student, studying Computer Science
+- Master Student, studying Computer Science
 
 ## ⛹ Interests
 - Basketball (Golden State Warriors fans)
@@ -27,10 +27,11 @@ Twitter: [m1ssuo](https://twitter.com/m1ssuo)
 Instagram: [m1ssuo](https://instagram.com/m1ssuo)  
 GitHub: [missuo](https://github.com/missuo)  
 
-## 📱My device
+## 📱 My device
 MacBook Pro 2019  
 Mac mini 2020  
 iPad Air 4  
+iPhone 12 Pro
 iPhone 12  
 Xiaomi Civi  
 Apple Watch SE  
@@ -38,5 +39,4 @@ AirPods 2
 AirPods Pro 2  
 KeyChron K2  
 Magic Keyboard  
-KOIOS 4K Display  
 SONGREN 4K Display   
