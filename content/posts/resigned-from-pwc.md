@@ -1,7 +1,7 @@
 ---
 title: 'Resigned from PwC'
 date: 2022-06-02 03:15:23
-tags: [PwC,Job,Resignation]
+tags: [PwC, Job, Resignation]
 ---
 前天，也就是周二，2022年5月31日。我从PwC主动申请离职了，办理好了所有的材料。直到今天，我的PwC员工账号和工作邮箱配置文件正式被移除，完全地离开了PwC。
 

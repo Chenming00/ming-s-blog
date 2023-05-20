@@ -6,16 +6,16 @@ tags: [ChatGPT, ChatGPT Plus, OpenAI, WARP, Cloudflare]
 ---
 
 ## 原理分析
-**Cloudflare WARP**拥有很多IP，而ChatGPT的CDN又是Cloudflare提供的，也就是说，能不能访问完全取决于Cloudflare。因此使用Cloudflare自己的IP大概率不会被Ban。除了WARP之外，iCloud Private Relay也是Cloudflare的IP哦。
+**Cloudflare WARP** 拥有很多 IP，而 ChatGPT 的 CDN 又是 Cloudflare 提供的，也就是说，能不能访问完全取决于 Cloudflare。因此使用 Cloudflare 自己的 IP 大概率不会被 Ban。除了 WARP 之外，iCloud Private Relay 也是 Cloudflare 的 IP 哦。
 
 ## 具体步骤
-**本文的方案仅改变IPv6出口IP，不会改变IPv4出口IP，更不会改变路由。**
+**本文的方案仅改变 IPv6 出口 IP，不会改变 IPv4 出口 IP，更不会改变路由。**
 
-1. 准备一台VPS，需要是OpenGPT支持的161个国家之一。因为你的网络在哪里，WARP就会使用你所在地的IP。比如香港就不行。
+1. 准备一台 VPS，需要是 OpenGPT 支持的 161 个国家之一。因为你的网络在哪里，WARP 就会使用你所在地的 IP。比如香港就不行。
 
 [Supported countries and territories](https://platform.openai.com/docs/supported-countries)
 
-2. 使用以下命令安装WARP。
+2. 使用以下命令安装 WARP。
 ```
 bash <(curl -fsSL git.io/warp.sh) proxy
 ```
