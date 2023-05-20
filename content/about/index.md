@@ -31,7 +31,7 @@ GitHub: [missuo](https://github.com/missuo)
 MacBook Pro 2019  
 Mac mini 2020  
 iPad Air 4  
-iPhone 12 Pro
+iPhone 12 Pro  
 iPhone 12  
 Xiaomi Civi  
 Apple Watch SE  
