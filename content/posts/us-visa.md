@@ -10,7 +10,7 @@ tags: [US, Visa]
 
 ## Information
 
-**Last updated on: 2023-05-23 14:09:10** (Updated every 3 hours)
+**Last updated on: 2023-05-23 17:06:47** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
@@ -43,9 +43,9 @@ tags: [US, Visa]
 ### Guangzhou - P73
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 142 | 2023-10-12 |
-| Yes | Students/Exchange Visitors (F, M, J) | 35 | 2023-06-27 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 46 | 2023-07-08 |
+| Yes | Visitors (B1/B2)  | 147 | 2023-10-17 |
+| Yes | Students/Exchange Visitors (F, M, J) | 34 | 2023-06-26 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 45 | 2023-07-07 |
 | Yes | Crew and Transit (C, D, C1/D) | 15 | 2023-06-07 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2023-05-24 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2023-05-24 |
@@ -85,14 +85,14 @@ tags: [US, Visa]
 ### Bangkok - P22
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 60 | 2023-07-22 |
-| Yes | Students/Exchange Visitors (F, M, J) | 30 | 2023-06-22 |
+| Yes | Visitors (B1/B2)  | 100 | 2023-08-31 |
+| Yes | Students/Exchange Visitors (F, M, J) | 15 | 2023-06-07 |
 | Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2023-05-24 |
-| Yes | Crew and Transit (C, D, C1/D) | 30 | 2023-06-22 |
-| Waiver | Students/Exchange Visitors (F, M, J) | 0 | 2023-05-23 |
+| Yes | Crew and Transit (C, D, C1/D) | 15 | 2023-06-07 |
+| Waiver | Students/Exchange Visitors (F, M, J) | 2 | 2023-05-25 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | None | None |
 | Waiver | Crew and Transit (C, D, C1/D) | None | None |
-| Waiver | Visitors (B1/B2) | 0 | 2023-05-23 |
+| Waiver | Visitors (B1/B2) | 2 | 2023-05-25 |
 
 
     
