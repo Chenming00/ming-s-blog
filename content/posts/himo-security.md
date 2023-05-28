@@ -1,5 +1,5 @@
 ---
-title: "Himo Security"
+title: "Himo Mini Program Security Issues"
 date: 2023-05-29T00:31:40+08:00
 draft: false
 tags: [Information Security, Himo]
