@@ -43,9 +43,9 @@ tags: [SIM Card, China Mobile, China Unicom, China Telecom, CMHK, GiffGaff, Ultr
 用途：主用上网通话卡
 
 ### 中国联通 China Unicom
-套餐：大王卡（70G） 
+套餐：大王卡（70G）  
 资费：29CNY/mo  
-用途：备用上网卡  
+用途：备用上网卡    
 
 ### 中国电信 China Telecom
 套餐：上海飞 Young 校园卡（36G + 300 分钟）  
