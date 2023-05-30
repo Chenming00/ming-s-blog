@@ -38,9 +38,9 @@ tags: [SIM Card, China Mobile, China Unicom, China Telecom, CMHK, GiffGaff, Ultr
 用途：这是我最老的号码，绑定了不少服务，现在使用 **无忧行 App** 仅收短信  
 
 ### 中国联通 China Unicom
-套餐：浙江沃派 5G 套餐（44G + 300 分钟）
-资费：28CNY/mo
-用途：主用上网通话卡
+套餐：浙江沃派 5G 套餐（44G + 300 分钟）  
+资费：28CNY/mo  
+用途：主用上网通话卡  
 
 ### 中国联通 China Unicom
 套餐：大王卡（70G）  
