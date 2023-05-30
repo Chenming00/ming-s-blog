@@ -13,7 +13,7 @@ tags: [SIM Card, China Mobile, China Unicom, China Telecom, CMHK, GiffGaff, Ultr
 上车价格：30CNY（几年前的价格，现在涨价了）  
 
 ### Giffgaff
-资费：0GBP/mo  
+资费：0GBP  
 保号：每半年发送一次短信或者拨打一次电话  
 用途：注册 OpenAI，绑定 WeChat 等  
 上车价格：30CNY/2 张  
