@@ -25,10 +25,10 @@ tags: [SIM Card, China Mobile, China Unicom, China Telecom, CMHK, GiffGaff, Ultr
 上车价格：11CNY  
 
 ### PayGo
-资费：3USD/mo
-保号：每月正常扣款 3USD，没有别的要求
-用途：绑定美区 PayPal 等
-上车价格：13USD  [eBay](https://www.ebay.com/itm/285112988423?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=gHfqfctQT8S&sssrc=2349624&ssuid=dcrueftqrgg&var=&widget_ver=artemis&media=COPY)
+资费：3USD/mo  
+保号：每月正常扣款 3USD，没有别的要求  
+用途：绑定美区 PayPal 等  
+上车价格：13USD  [eBay](https://www.ebay.com/itm/285112988423?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=gHfqfctQT8S&sssrc=2349624&ssuid=dcrueftqrgg&var=&widget_ver=artemis&media=COPY)  
 
 
 # 境内
