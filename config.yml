@@ -49,7 +49,7 @@ outputs:
 
 params:
     env: production
-    description: "Vincent's Notes"
+    description: "Record, Share and Archive"
     author: Vincent Young
     DateFormat: "Monday, January 2, 2006"
     defaultTheme: light
@@ -77,7 +77,7 @@ params:
     homeInfoParams:
         Title: "Hi there 👋"
         Content: >
-            I'm **Vincent Young**, operator of [AS206729](https://bgp.he.net/AS206729). I am a computer science student and I am currently preparing my application for graduate school. I am a **BGP** and **Linux** enthusiast, and an open source project contributor. You can get to know me on the [about](https://missuo.me/about) page.
+            I'm **Vincent Young**, operator of [AS206729](https://bgp.he.net/AS206729). I am a master student majoring in computer science at [University of Pittsburgh](https://www.pitt.edu). I am a **BGP** and **Linux** enthusiast, and an open source project contributor. You can get to know me on the [about](https://missuo.me/about) page.
     socialIcons:
         - name: github
           url: "https://github.com/missuo"
