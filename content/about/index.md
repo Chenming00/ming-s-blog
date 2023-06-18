@@ -12,8 +12,8 @@ This site is mainly used for the personal life of the blogger.
 ## 👨‍💻 Who is the blogger
 - Vincent(YingTao) Young
 - Libra, born on October 10, 2000
-- From Zhejiang, usually living in Shanghai
-- Master Student, studying Computer Science
+- From Zhejiang, about to go to Pennsylvania, USA
+- Master Student, studying Computer Science at [University of Pittsburgh](https://www.pitt.edu)
 
 ## ⛹ Interests
 - Basketball (Golden State Warriors fans)
@@ -40,3 +40,6 @@ AirPods Pro 2
 KeyChron K2  
 Magic Keyboard  
 SONGREN 4K Display   
+
+## Sponsor
+<iframe src="https://github.com/sponsors/missuo/button" title="Sponsor missuo" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
