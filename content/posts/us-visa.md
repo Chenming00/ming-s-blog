@@ -10,7 +10,7 @@ tags: [US, Visa]
 
 ## Information
 
-**Last updated on: 2023-07-06 14:10:38** (Updated every 3 hours)
+**Last updated on: 2023-07-06 17:08:10** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
@@ -44,8 +44,8 @@ tags: [US, Visa]
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
 | Yes | Visitors (B1/B2)  | 195 | 2024-01-17 |
-| Yes | Students/Exchange Visitors (F, M, J) | 28 | 2023-08-03 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 50 | 2023-08-25 |
+| Yes | Students/Exchange Visitors (F, M, J) | 27 | 2023-08-02 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 48 | 2023-08-23 |
 | Yes | Crew and Transit (C, D, C1/D) | 41 | 2023-08-16 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2023-07-07 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2023-07-07 |
@@ -72,8 +72,8 @@ tags: [US, Visa]
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
 | Yes | Visitors (B1/B2)  | 75 | 2023-09-19 |
-| Yes | Students/Exchange Visitors (F, M, J) | 3 | 2023-07-09 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 3 | 2023-07-09 |
+| Yes | Students/Exchange Visitors (F, M, J) | 26 | 2023-08-01 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 25 | 2023-07-31 |
 | Yes | Crew and Transit (C, D, C1/D) | 3 | 2023-07-09 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2023-07-07 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2023-07-07 |
