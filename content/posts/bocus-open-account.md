@@ -13,7 +13,7 @@ tags: [Bank, United States, Debit Card]
 - 本人身份证
 - I-20
 - 开户申请表 (在系统上下载打印)
-- W8 表格(在系统上下载打印)
+- W8 表格 (在系统上下载打印)
 
 ## 开户步骤
 1. 在 [**中国银行美国官网**](https://www.bocusa.com/) 点开 [**美好前程**](https://www.bocusa.com/zh-hans/personal-banking/deposits/overseas-student-account) 开户的页面。
