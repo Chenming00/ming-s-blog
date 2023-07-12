@@ -15,6 +15,7 @@ tags: [Magisk, Magisk Delta, ROOT, Android]
 
 ## 如何升级
 1. 安装 Magisk Delta App，修补 **boot.img**。
+
 [Download APK](https://cdn.jsdelivr.net/gh/huskydg/magisk-files@301b1865c7d47bbed1e375541987aee0cd1b753d/app-release.apk)
 
 2. 使用 **Fastboot** 刷入修补之后的 **boot.img**。
