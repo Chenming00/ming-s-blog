@@ -2,7 +2,7 @@
 title: "HSBC Hong Kong One Account Opening Guide"
 date: 2023-06-19T01:44:41+08:00
 draft: false
-tags: [HSBC, Bank Account, One Account]
+tags: [HSBC, Bank, Hong Kong, One Account]
 ---
 
 > 相比 BOCHK，HSBC HK 的服务好太多了！而且 HSBC 开户更加容易。网点也比较多，工作人员也非常友好，不会刻意刁难。最关键的是 HSBC 可以申请一张 Debit Card，可以绑定 Apple Pay 消费，非常方便。
