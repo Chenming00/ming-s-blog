@@ -10,7 +10,7 @@ tags: [US, Visa]
 
 ## Information
 
-**Last updated on: 2023-07-20 14:09:16** (Updated every 3 hours)
+**Last updated on: 2023-07-20 17:07:03** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
@@ -43,10 +43,10 @@ tags: [US, Visa]
 ### Guangzhou - P73
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 194 | 2024-01-30 |
-| Yes | Students/Exchange Visitors (F, M, J) | 20 | 2023-08-09 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 26 | 2023-08-15 |
-| Yes | Crew and Transit (C, D, C1/D) | 55 | 2023-09-13 |
+| Yes | Visitors (B1/B2)  | 221 | 2024-02-26 |
+| Yes | Students/Exchange Visitors (F, M, J) | 14 | 2023-08-03 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 25 | 2023-08-14 |
+| Yes | Crew and Transit (C, D, C1/D) | 60 | 2023-09-18 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2023-07-21 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2023-07-21 |
 | Waiver | Crew and Transit (C, D, C1/D) | 1 | 2023-07-21 |
