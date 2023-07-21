@@ -1,5 +1,5 @@
 ---
-title: "I closed my CCB account."
+title: "I closed my CCB account"
 date: 2023-07-21T19:12:29+08:00
 draft: false
 tags: [CCB, Bank Account]
