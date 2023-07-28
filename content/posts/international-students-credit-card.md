@@ -43,6 +43,3 @@ FTF：全称为 Foreign Transaction Fee，货币转换费。由于中国大陆�
 - **不建议用于线下 POS 机刷卡使用，很大概率会被盗刷。**
 
 
-
-
-
