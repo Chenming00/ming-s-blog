@@ -59,7 +59,7 @@ params:
     disableSpecial1stPost: true
     displayFullLangName: true
     ShowPostNavLinks: true
-    ShowBreadCrumbs: false
+    ShowBreadCrumbs: true
     ShowCodeCopyButtons: false
     ShowRssButtonInSectionTermList: true
     ShowToc: false
