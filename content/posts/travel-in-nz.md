@@ -25,52 +25,10 @@ AKL 机场一共只有两个航站楼，分别是 AKL-I 和 AKL-D，代表的是
 
 ### Food
 
-![20230825RzhKL2](https://static.nisekoo.com/blog/20230825RzhKL2.jpeg)
+![20230825EVjmhw](https://static.nisekoo.com/blog/20230825EVjmhw.jpeg)
 
-![20230825JzQwUz](https://static.nisekoo.com/blog/20230825JzQwUz.jpeg)
+![20230825yQKRYF](https://static.nisekoo.com/blog/20230825yQKRYF.jpeg)
 
-![20230825XqrwgI](https://static.nisekoo.com/blog/20230825XqrwgI.jpeg)
-
-![20230825vXhUSr](https://static.nisekoo.com/blog/20230825vXhUSr.jpeg)
-
-![20230825sy8OFb](https://static.nisekoo.com/blog/20230825sy8OFb.jpeg)
-
-![20230825aTHw6g](https://static.nisekoo.com/blog/20230825aTHw6g.jpeg)
-
-![202308252tSMIo](https://static.nisekoo.com/blog/202308252tSMIo.jpeg)
-
-![202308259ly8M6](https://static.nisekoo.com/blog/202308259ly8M6.jpeg)
-
-![20230825Mgzq3X](https://static.nisekoo.com/blog/20230825Mgzq3X.jpeg)
 
 ### Scenery
 
-![20230825zGazF8](https://static.nisekoo.com/blog/20230825zGazF8.jpeg)
-
-![20230825iLj9MS](https://static.nisekoo.com/blog/20230825iLj9MS.jpeg)
-
-![20230825dqsBnL](https://static.nisekoo.com/blog/20230825dqsBnL.jpeg)
-
-![20230825zAqaxL](https://static.nisekoo.com/blog/20230825zAqaxL.jpeg)
-
-![20230825idx02i](https://static.nisekoo.com/blog/20230825idx02i.jpeg)
-
-![20230825SoSx0m](https://static.nisekoo.com/blog/20230825SoSx0m.jpeg)
-
-![20230825qkelTa](https://static.nisekoo.com/blog/20230825qkelTa.jpeg)
-
-![20230825A3iceT](https://static.nisekoo.com/blog/20230825A3iceT.jpeg)
-
-![202308258Wjnr1](https://static.nisekoo.com/blog/202308258Wjnr1.jpeg)
-
-![20230825mTUAfg](https://static.nisekoo.com/blog/20230825mTUAfg.jpeg)
-
-![20230825CT8dyi](https://static.nisekoo.com/blog/20230825CT8dyi.jpeg)
-
-![20230825Lmjun9](https://static.nisekoo.com/blog/20230825Lmjun9.jpeg)
-
-![20230825xCkziC](https://static.nisekoo.com/blog/20230825xCkziC.jpeg)
-
-![20230825HzFjLz](https://static.nisekoo.com/blog/20230825HzFjLz.jpeg)
-
-![20230825ShQo6i](https://static.nisekoo.com/blog/20230825ShQo6i.jpeg)
