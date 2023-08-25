@@ -63,6 +63,7 @@ params:
     ShowCodeCopyButtons: false
     ShowRssButtonInSectionTermList: true
     ShowToc: true
+    TocOpen: true
     comments: true
     ShowAllPagesInArchive: true
     ShowFullTextinRSS: true
