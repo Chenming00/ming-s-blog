@@ -59,10 +59,10 @@ params:
     disableSpecial1stPost: true
     displayFullLangName: true
     ShowPostNavLinks: true
-    ShowBreadCrumbs: true
+    ShowBreadCrumbs: false
     ShowCodeCopyButtons: false
     ShowRssButtonInSectionTermList: true
-    ShowToc: false
+    ShowToc: true
     comments: true
     ShowAllPagesInArchive: true
     ShowFullTextinRSS: true
