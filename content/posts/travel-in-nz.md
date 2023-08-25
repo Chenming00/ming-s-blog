@@ -10,8 +10,8 @@ tags: [Travel, New Zealand]
 ## Flight Info
 | Carrier | Flight No. | Aircraft Type | Departure Time | Departure | Arrival |
 |  ----  | ----  | ---- | ---- | ---- | ---- |
-| MU | MU779 | Boeing 777-300 | Aug 14 00: 15 (GMT+8) | PVG | AKL |
-| TN | TN102 | Boeing 787-9 | Aug 17 15: 30 (GMT+12) | AKL | LAX |
+| MU | MU779 | Boeing 777-300 | Aug 14 00:15 (GMT+8) | PVG | AKL |
+| TN | TN102 | Boeing 787-9 | Aug 17 15:30 (GMT+12) | AKL | LAX |
 
 ## Experience
 ### Entry
