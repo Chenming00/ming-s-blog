@@ -41,7 +41,7 @@ LG Monitor (27UL550-W)
 ~~AirPods 2~~  
 ~~KeyChron K2~~  
 ~~Macbook Pro 2019~~  
-~~iPad mini 6~~  
+~~iPad Air 4~~  
 ~~Magic Keyboard~~  
 ~~SONGREN 4K Display~~   
 
