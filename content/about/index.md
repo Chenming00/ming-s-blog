@@ -12,7 +12,7 @@ This site is mainly used for the personal life of the blogger.
 ## 👨‍💻 Who is the blogger
 - Vincent(YingTao) Young
 - Libra, born on October 10, 2000
-- From Zhejiang, about to go to Pennsylvania, USA
+- From 🇨🇳 Zhejiang, now in 🇺🇸 Pittsburgh, PA
 - Master Student, studying Computer Science at [University of Pittsburgh](https://www.pitt.edu)
 
 ## ⛹ Interests
@@ -28,18 +28,19 @@ Instagram: [m1ssuo](https://instagram.com/m1ssuo)
 GitHub: [missuo](https://github.com/missuo)  
 
 ## 📱 My device
-MacBook Pro 2019  
+MacBook Pro 2021  
 Mac mini 2020  
-iPad Air 4  
+iPad mini 6  
 iPhone 12 Pro  
 iPhone 12  
 Xiaomi Civi  
 Apple Watch SE  
-AirPods 2  
 AirPods Pro 2  
-KeyChron K2  
-Magic Keyboard  
-SONGREN 4K Display   
+Magic Keyboard with Touch ID  
+LG 27UL550-W Monitor  
+~~AirPods 2~~  
+~~KeyChron K2~~
+~~SONGREN 4K Display~~   
 
 ## Sponsor
 <iframe src="https://github.com/sponsors/missuo/button" title="Sponsor missuo" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
