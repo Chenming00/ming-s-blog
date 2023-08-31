@@ -45,5 +45,5 @@ LG Monitor (27UL550-W)
 ~~Magic Keyboard~~  
 ~~SONGREN 4K Display~~   
 
-## Sponsor
+## 💰 Sponsor
 <iframe src="https://github.com/sponsors/missuo/button" title="Sponsor missuo" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
