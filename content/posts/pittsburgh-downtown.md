@@ -2,7 +2,7 @@
 title: "Scenery of downtown Pittsburgh"
 date: 2023-09-09T02:23:38-04:00
 draft: false
-tags: [Pittsburgh, Downtown, Photos]
+tags: [Pittsburgh, Photos]
 ---
 
 ![tGv5jW](https://webp.aoo.mx/images/tGv5jW.JPG)
