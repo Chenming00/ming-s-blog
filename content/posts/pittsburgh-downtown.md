@@ -5,6 +5,8 @@ draft: false
 tags: [Pittsburgh, Photos]
 ---
 
+> 周末去了城里，拍了一些照片。
+
 ![tGv5jW](https://webp.aoo.mx/images/tGv5jW.JPG)
 
 ![HTFXCf](https://webp.aoo.mx/images/HTFXCf.JPG)
