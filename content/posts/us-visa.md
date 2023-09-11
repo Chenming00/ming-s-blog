@@ -10,7 +10,7 @@ tags: [US, Visa]
 
 ## Information
 
-**Last updated on: 2023-09-11 14:01:31** (Updated every 3 hours)
+**Last updated on: 2023-09-11 17:01:41** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
@@ -29,10 +29,10 @@ tags: [US, Visa]
 ### Shanghai - P187
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 225 | 2024-04-23 |
-| Yes | Students/Exchange Visitors (F, M, J) | 20 | 2023-10-01 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 42 | 2023-10-23 |
-| Yes | Crew and Transit (C, D, C1/D) | 35 | 2023-10-16 |
+| Yes | Visitors (B1/B2)  | 51 | 2023-11-01 |
+| Yes | Students/Exchange Visitors (F, M, J) | 10 | 2023-09-21 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 32 | 2023-10-13 |
+| Yes | Crew and Transit (C, D, C1/D) | 36 | 2023-10-17 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2023-09-12 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2023-09-12 |
 | Waiver | Crew and Transit (C, D, C1/D) | 1 | 2023-09-12 |
@@ -43,10 +43,10 @@ tags: [US, Visa]
 ### Guangzhou - P73
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 206 | 2024-04-04 |
-| Yes | Students/Exchange Visitors (F, M, J) | 19 | 2023-09-30 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 33 | 2023-10-14 |
-| Yes | Crew and Transit (C, D, C1/D) | 4 | 2023-09-15 |
+| Yes | Visitors (B1/B2)  | 78 | 2023-11-28 |
+| Yes | Students/Exchange Visitors (F, M, J) | 29 | 2023-10-10 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 31 | 2023-10-12 |
+| Yes | Crew and Transit (C, D, C1/D) | 2 | 2023-09-13 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2023-09-12 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2023-09-12 |
 | Waiver | Crew and Transit (C, D, C1/D) | 1 | 2023-09-12 |
@@ -85,24 +85,24 @@ tags: [US, Visa]
 ### Bangkok - P22
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 148 | 2024-02-06 |
+| Yes | Visitors (B1/B2)  | 156 | 2024-02-14 |
 | Yes | Students/Exchange Visitors (F, M, J) | 3 | 2023-09-14 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2023-09-12 |
-| Yes | Crew and Transit (C, D, C1/D) | 56 | 2023-11-06 |
-| Waiver | Students/Exchange Visitors (F, M, J) | 7 | 2023-09-18 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 2 | 2023-09-13 |
+| Yes | Crew and Transit (C, D, C1/D) | 11 | 2023-09-22 |
+| Waiver | Students/Exchange Visitors (F, M, J) | 11 | 2023-09-22 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | None | None |
 | Waiver | Crew and Transit (C, D, C1/D) | None | None |
-| Waiver | Visitors (B1/B2) | 7 | 2023-09-18 |
+| Waiver | Visitors (B1/B2) | 11 | 2023-09-22 |
 
 
     
 ### Tokyo - P205
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 2 | 2023-09-13 |
+| Yes | Visitors (B1/B2)  | 8 | 2023-09-19 |
 | Yes | Students/Exchange Visitors (F, M, J) | 3 | 2023-09-14 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 3 | 2023-09-14 |
-| Yes | Crew and Transit (C, D, C1/D) | 3 | 2023-09-14 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2023-09-12 |
+| Yes | Crew and Transit (C, D, C1/D) | 1 | 2023-09-12 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2023-09-12 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2023-09-12 |
 | Waiver | Crew and Transit (C, D, C1/D) | 1 | 2023-09-12 |
