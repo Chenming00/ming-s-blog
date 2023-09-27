@@ -99,7 +99,7 @@ params:
 
     assets:
         disableHLJS: false
-        favicon: "https://static.nisekoo.com/blog/20230104uZXT8s.ico"
+        favicon: "https://r2.qwq.mx/blog/20230104uZXT8s.ico"
     #     favicon16x16: "<link / abs url>"
     #     favicon32x32: "<link / abs url>"
     #     apple_touch_icon: "<link / abs url>"

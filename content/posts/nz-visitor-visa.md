@@ -38,4 +38,4 @@ tags: [New Zealand, Visa, Visitor Visa]
 ## 关于电子签证
 由于新西兰和澳大利亚都已经采用电子签证，所以申请和下发签证的过程都直接在网上完成即可，所有的材料拍照或者扫描好转换成 PDF 上传即可。下发签证的时候也是一个 PDF 文件，建议在前往新西兰之前打印好随身携带。
 
-![20230803u3Ls1v](https://static.nisekoo.com/blog/20230803u3Ls1v.png)
+![20230803u3Ls1v](https://r2.qwq.mx/blog/20230803u3Ls1v.png)

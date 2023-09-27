@@ -50,6 +50,6 @@ brew install gpg-suite --cask
 ### Configure VSCode
 Check the box in the settings `Git: Enable Commit Signing`.
 
-![20230307sUo8Vy](https://static.nisekoo.com/blog/20230307sUo8Vy.png)
+![20230307sUo8Vy](https://r2.qwq.mx/blog/20230307sUo8Vy.png)
 
 

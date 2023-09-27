@@ -25,53 +25,53 @@ AKL 机场一共只有两个航站楼，分别是 AKL-I 和 AKL-D，代表的是
 
 ### Food
 
-![20230825J6T3NB](https://static.nisekoo.com/blog/20230825J6T3NB.jpg)
+![20230825J6T3NB](https://r2.qwq.mx/blog/20230825J6T3NB.jpg)
 
-![20230825NUb7Pe](https://static.nisekoo.com/blog/20230825NUb7Pe.jpg)
+![20230825NUb7Pe](https://r2.qwq.mx/blog/20230825NUb7Pe.jpg)
 
-![20230825Sj3EhW](https://static.nisekoo.com/blog/20230825Sj3EhW.jpg)
+![20230825Sj3EhW](https://r2.qwq.mx/blog/20230825Sj3EhW.jpg)
 
-![20230825EvySQ6](https://static.nisekoo.com/blog/20230825EvySQ6.jpg)
+![20230825EvySQ6](https://r2.qwq.mx/blog/20230825EvySQ6.jpg)
 
-![20230825f3W0gD](https://static.nisekoo.com/blog/20230825f3W0gD.jpg)
+![20230825f3W0gD](https://r2.qwq.mx/blog/20230825f3W0gD.jpg)
 
-![20230825nhj0S6](https://static.nisekoo.com/blog/20230825nhj0S6.jpg)
+![20230825nhj0S6](https://r2.qwq.mx/blog/20230825nhj0S6.jpg)
 
-![20230825AGG3tW](https://static.nisekoo.com/blog/20230825AGG3tW.jpg)
+![20230825AGG3tW](https://r2.qwq.mx/blog/20230825AGG3tW.jpg)
 
-![20230825AbYOoZ](https://static.nisekoo.com/blog/20230825AbYOoZ.jpg)
+![20230825AbYOoZ](https://r2.qwq.mx/blog/20230825AbYOoZ.jpg)
 
-![20230825EwKkvb](https://static.nisekoo.com/blog/20230825EwKkvb.jpg)
+![20230825EwKkvb](https://r2.qwq.mx/blog/20230825EwKkvb.jpg)
 
 ### Scenery
 
-![202308257LBJIN](https://static.nisekoo.com/blog/202308257LBJIN.jpg)
+![202308257LBJIN](https://r2.qwq.mx/blog/202308257LBJIN.jpg)
 
-![20230825EVjmhw](https://static.nisekoo.com/blog/20230825EVjmhw.jpeg)
+![20230825EVjmhw](https://r2.qwq.mx/blog/20230825EVjmhw.jpeg)
 
-![20230825yQKRYF](https://static.nisekoo.com/blog/20230825yQKRYF.jpeg)
+![20230825yQKRYF](https://r2.qwq.mx/blog/20230825yQKRYF.jpeg)
 
-![202308252QgtAJ](https://static.nisekoo.com/blog/202308252QgtAJ.jpeg)
+![202308252QgtAJ](https://r2.qwq.mx/blog/202308252QgtAJ.jpeg)
 
-![20230825Iw6Yhm](https://static.nisekoo.com/blog/20230825Iw6Yhm.jpeg)
+![20230825Iw6Yhm](https://r2.qwq.mx/blog/20230825Iw6Yhm.jpeg)
 
-![202308257jZVjN](https://static.nisekoo.com/blog/202308257jZVjN.jpeg)
+![202308257jZVjN](https://r2.qwq.mx/blog/202308257jZVjN.jpeg)
 
-![20230825o2MOhz](https://static.nisekoo.com/blog/20230825o2MOhz.jpeg)
+![20230825o2MOhz](https://r2.qwq.mx/blog/20230825o2MOhz.jpeg)
 
-![20230825T5fUDU](https://static.nisekoo.com/blog/20230825T5fUDU.jpeg)
+![20230825T5fUDU](https://r2.qwq.mx/blog/20230825T5fUDU.jpeg)
 
-![202308250igAK9](https://static.nisekoo.com/blog/202308250igAK9.jpg)
+![202308250igAK9](https://r2.qwq.mx/blog/202308250igAK9.jpg)
 
-![20230825U4nlbZ](https://static.nisekoo.com/blog/20230825U4nlbZ.jpeg)
+![20230825U4nlbZ](https://r2.qwq.mx/blog/20230825U4nlbZ.jpeg)
 
-![20230825ymn7nM](https://static.nisekoo.com/blog/20230825ymn7nM.jpeg)
+![20230825ymn7nM](https://r2.qwq.mx/blog/20230825ymn7nM.jpeg)
 
-![20230825ZWuR88](https://static.nisekoo.com/blog/20230825ZWuR88.jpeg)
+![20230825ZWuR88](https://r2.qwq.mx/blog/20230825ZWuR88.jpeg)
 
-![20230825B9oCfT](https://static.nisekoo.com/blog/20230825B9oCfT.jpeg)
+![20230825B9oCfT](https://r2.qwq.mx/blog/20230825B9oCfT.jpeg)
 
-![202308257hRmDf](https://static.nisekoo.com/blog/202308257hRmDf.jpeg)
+![202308257hRmDf](https://r2.qwq.mx/blog/202308257hRmDf.jpeg)
 
-![2023082523gYQJ](https://static.nisekoo.com/blog/2023082523gYQJ.jpg)
+![2023082523gYQJ](https://r2.qwq.mx/blog/2023082523gYQJ.jpg)
 

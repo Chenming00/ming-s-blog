@@ -22,14 +22,14 @@ tags: [Twitter,NFT,Web3,Avatar,Twitter Blue,Social Media]
 ### 在 OpenSea 上传你的头像
 点击 [Create](https://opensea.io/asset/create) 按扭。上传你的头像，并且取一个名字即可。
 
-![20221106KsQLZo](https://static.nisekoo.com/blog/20221106KsQLZo.png)
+![20221106KsQLZo](https://r2.qwq.mx/blog/20221106KsQLZo.png)
 
 ### 转移你的头像到 Coinbase
 点击红色框框内的 `转移` 图标。输入你的 Coinbase ETH 地址，这个时候会需要你支付手续费。你直接支付即可。
 
-![20221106gfwJSy](https://static.nisekoo.com/blog/20221106gfwJSy.png)
+![20221106gfwJSy](https://r2.qwq.mx/blog/20221106gfwJSy.png)
 
 ### 更换 Twitter 头像
 在 Twitter 上点击更换头像，选择 NFT，这个时候会提示你连接你的 ETH 钱包，你连接你的 Coinbase 钱包之后，会发现已经有一个可选的头像了。换好之后就是六边形的 NFT 专属头像。
 
-![20221106rcFWOB](https://static.nisekoo.com/blog/20221106rcFWOB.jpg)
+![20221106rcFWOB](https://r2.qwq.mx/blog/20221106rcFWOB.jpg)

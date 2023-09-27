@@ -26,6 +26,6 @@ fastboot reboot
 ```
 
 3. 开机之后，卸载 **Magisk App**，打开新的 **Magisk Delta App**，开启 **MagiskHide** 和 **Enforce SuList**。（注意开机之后不需要重新导入模块，理论上会自动识别之前安装的所有模块，包括**LSP**）
-![20230712ZBVeDI](https://static.nisekoo.com/blog/20230712ZBVeDI.jpg)
+![20230712ZBVeDI](https://r2.qwq.mx/blog/20230712ZBVeDI.jpg)
 
-![20230712xkDIyI](https://static.nisekoo.com/blog/20230712xkDIyI.jpg)
+![20230712xkDIyI](https://r2.qwq.mx/blog/20230712xkDIyI.jpg)

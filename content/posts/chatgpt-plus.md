@@ -21,7 +21,7 @@ tags: [ChatGPT, ChatGPT Plus, OpenAI]
 
 ## 体验
 Plus 版本有两个模式，分别是 **Default** 和 **Turbo**。  
-![202302114W6T0j](https://static.nisekoo.com/blog/202302114W6T0j.png)
+![202302114W6T0j](https://r2.qwq.mx/blog/202302114W6T0j.png)
 
 根据描述和实际体验，**Turbo** 模式显然要快很多，回复速度比免费版有了很大的提升，很少有遇到崩溃的情况。当然英文提问会比中文回复速度快很多。  
 
@@ -31,7 +31,7 @@ ChatGPT 封锁了很多机房的 IP，因为 ChatGPT 使用的是 [Cloudflare](h
 
 ### 我的方案
 在 2022 年 3 月 28 日，我在 RIPE 申请到了 ASN，也就意味着我可以持有 IPv4 和 IPv6，我目前持有两个/48 的 IPv6。我目前的 IPv6 分别来自 **台湾** 和 **英国**，都在 161 个国家之内，危险分数都是 0。我建立了 BGP Session，完全可以使用自己的 IP 来访问 OpenAI 的服务。  
-![20230211Dlnlje](https://static.nisekoo.com/blog/20230211Dlnlje.png)
+![20230211Dlnlje](https://r2.qwq.mx/blog/20230211Dlnlje.png)
 ```
 Prefixes:
 2401:95c0:f001::/48

@@ -48,4 +48,4 @@ tags: [Passport,English Name]
 
 **寄往`省公安厅出入境制证中心`由`当地出入境管理局`完成，寄回给您是由`省公安厅出入境制证中心`完成。一般是通过EMS寄回，并且是已经支付运费的。**
 
-![20221230GKbnuj](https://static.nisekoo.com/blog/20221230GKbnuj.jpg)
+![20221230GKbnuj](https://r2.qwq.mx/blog/20221230GKbnuj.jpg)

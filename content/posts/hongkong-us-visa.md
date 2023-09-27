@@ -24,7 +24,7 @@ tags: [US Visa, Hong Kong, CS]
 
 ## 正式面签
 
-![2023061685zc1s](https://static.nisekoo.com/blog/2023061685zc1s.jpeg)
+![2023061685zc1s](https://r2.qwq.mx/blog/2023061685zc1s.jpeg)
 
 **Consulate General Of The United States Of America, 26 Garden Rd, Central**
 

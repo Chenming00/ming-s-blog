@@ -27,7 +27,7 @@ adb shell pm list users
 # if you find other users on your phone, please execute the following command.
 adb uninstall --user [USERID] com.miui.guardprovider
 ```
-![20230204UJZpcM](https://static.nisekoo.com/blog/20230204UJZpcM.png)
+![20230204UJZpcM](https://r2.qwq.mx/blog/20230204UJZpcM.png)
 
 ## Install Magisk Module
 > ROOT is required, but updating the system works just as well.

@@ -22,8 +22,8 @@ tags: [Affinity,Argentina,Upwork]
 
 找了很多办法，阿根廷也没有礼品卡这一说，虚拟信用卡我也尝试了，没有阿根廷手机号和身份证无法开通。最后在 `UpWork` 发了一个帖子，邀请了几个人，其中有一个 `美女小姐姐` 接受了邀请。小姐姐很靠谱，花了 10 来分钟就帮我搞定了。我是让她登录我的帐号帮我购买。购买之后移除她自己的付款方式，并且我移除她的设备。（建议合作之前说清楚，他需要花费 1440ARS 的成本，但是可以得到 15USD）
 
-![202212218l1ys8](https://static.nisekoo.com/blog/202212218l1ys8.png)
+![202212218l1ys8](https://r2.qwq.mx/blog/202212218l1ys8.png)
 
-![202212216pcvcg](https://static.nisekoo.com/blog/202212216pcvcg.png)
+![202212216pcvcg](https://r2.qwq.mx/blog/202212216pcvcg.png)
 
 
