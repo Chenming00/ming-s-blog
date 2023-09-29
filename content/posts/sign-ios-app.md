@@ -59,11 +59,11 @@ xxxx.mobileprovision
 ## 软件源
 软件源鱼龙混杂，有各种各样的，我这边就随便分享几个我自己在用的觉得还不错的分享 ipa 的 Telegram 频道和订阅源。
 
-- [iOS破解软件分享](https://t.me/gekuGou): 破解的 App 会比较多。
-- [登拜科技](https://t.me/dengbai): 更新的比较快，App 也不少。
-- [苓妹妹ios资源分享](https://t.me/iosfulishare): 个人不常用，会注入频道的动态库，不太喜欢。
-- [ios鸡神-Crack频道](https://t.me/iosapp520): 破解 App 也不少。
-- [App Tester](https://repo.apptesters.org): 个人最喜欢的国外软件源，Twitter 之类的应用更新很快且纯净，且没有多余的注入。
+- [iOS破解软件分享](https://t.me/gekuGou)：破解的 App 会比较多。
+- [登拜科技](https://t.me/dengbai)：更新的比较快，App 也不少。
+- [苓妹妹ios资源分享](https://t.me/iosfulishare)：个人不常用，会注入频道的动态库，不太喜欢。
+- [ios鸡神-Crack频道](https://t.me/iosapp520)：破解 App 也不少。
+- [App Tester](https://repo.apptesters.org)：个人最喜欢的国外软件源，Twitter 之类的应用更新很快且纯净，且没有多余的注入。
 
 **以上的软件源都是免费的且与本人没有任何的合作关系，如果你使用了这些软件源的包产生的任何后果自负。**
 
