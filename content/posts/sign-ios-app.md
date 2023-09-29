@@ -71,7 +71,7 @@ xxxx.mobileprovision
 我目前在使用的自签名软件也不多：
 
 - 微信：多开，也就是说我把 **Bundle ID** 改掉了，没有消息通知，但是我也不是很在意，多开上登录的是小号，平时找我的人不多。动态库都是我自己注入的，我也改动了一下主题。每个版本我都会自己注入并且会分享在 [GitHub](https://github.com/missuo/Inject-IPA/releases)。
-- X(Twitter)：官替，卸载了官方版本，和官方一样正常消息推送，使用了 App Tester 的包（注入了 BHTwitter），没有广告还有一些功能非常不错。
+- X(Twitter)：官替，卸载了官方版本，和官方一样正常消息推送，使用 App Tester 的包（注入了 BHTwitter），没有广告还有一些功能非常不错。
 - Instagram：官替，卸载了官方版本，和官方一样正常消息推送，使用 App Tester 的包（注入了 Rocket 和 BHInsta），没有广告，没有建议的内容，可以随意批量下载照片和视频等等。
 - NOMO RAW：官替，官方版本太贵了，我直接用的破解包。
 
