@@ -59,6 +59,7 @@ xxxx.mobileprovision
 ## 软件源
 软件源鱼龙混杂，有各种各样的，我这边就随便分享几个我自己在用的觉得还不错的分享 ipa 的 Telegram 频道和订阅源。
 
+- [OwO Network](https://repo.owo.network)：我自己维护的软件源。[订阅 TG 频道](https://t.me/missuo-ipa)
 - [iOS破解软件分享](https://t.me/gekuGou)：破解的 App 会比较多。
 - [登拜科技](https://t.me/dengbai)：更新的比较快，App 也不少。
 - [苓妹妹ios资源分享](https://t.me/iosfulishare)：个人不常用，会注入频道的动态库，不太喜欢。
