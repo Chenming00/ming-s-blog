@@ -57,6 +57,7 @@ params:
     author: Vincent Young
     DateFormat: "Monday, January 2, 2006"
     defaultTheme: light
+    ShowWordCount: true
     disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
