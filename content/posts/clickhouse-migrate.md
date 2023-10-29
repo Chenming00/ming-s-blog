@@ -1,7 +1,7 @@
 ---
 title: "Clickhouse Data Migration"
 date: 2023-10-18T11:04:23-04:00
-draft: false
+draft: true
 tags: [Clickhouse, Data Migration]
 ---
 > 因为有一个五亿规模的数据库，我不得不选择使用 Clickhouse 作为数据库，Clickhouse 的 MergeTree 使得查询的效率大概是 MySQL 优化之后的 100 倍以上，这是一个很夸张的数据，MySQL 在建立索引和分表的情况下需要 1-2 分钟，而 Clickhouse 为 0.1s 左右。数据量大概在 50G 左右，迁移起来有些麻烦。
