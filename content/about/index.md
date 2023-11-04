@@ -32,17 +32,20 @@ MacBook Pro 2021
 Mac mini 2020  
 iPad mini 6  
 iPhone 12 Pro  
-iPhone 12  
+iPhone 15 Pro    
 Xiaomi Civi  
 Apple Watch SE  
 AirPods Pro 2  
+Magic Keyboard  
 Magic Keyboard with Touch ID  
 LG Monitor (27UL550-W)  
+Readmi Router AX6000  
+NetGear Router R6700AXS  
+Lenovo ThinkStation P520
 ~~AirPods 2~~  
 ~~KeyChron K2~~  
 ~~Macbook Pro 2019~~  
 ~~iPad Air 4~~  
-~~Magic Keyboard~~  
 ~~SONGREN 4K Display~~   
 
 ## 💰 Sponsor
