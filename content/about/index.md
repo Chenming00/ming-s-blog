@@ -38,10 +38,10 @@ Apple Watch SE
 AirPods Pro 2  
 Magic Keyboard  
 Magic Keyboard with Touch ID  
-LG Monitor (27UL550-W)  
+LG Monitor 27UL550-W  
 Readmi Router AX6000  
 NetGear Router R6700AXS  
-Lenovo ThinkStation P520
+Lenovo ThinkStation P520  
 ~~AirPods 2~~  
 ~~KeyChron K2~~  
 ~~Macbook Pro 2019~~  
