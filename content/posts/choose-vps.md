@@ -1,5 +1,5 @@
 ---
-title: "How to choose a VPS with fast speed to Mainland China."
+title: "How to choose a VPS with fast speed to Mainland China"
 date: 2023-10-12T21:43:56-04:00
 draft: false
 tags: [VPS, Looking Glass]
