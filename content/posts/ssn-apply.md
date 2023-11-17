@@ -5,7 +5,7 @@ draft: false
 tags: [SSN, F1]
 ---
 
-> SSN 全称 Social Security Number。在美国有了 SSN 以后，会变得方便很多。例如，没有 SSN 的情况下，申请 Driver License 和 State ID 需要出示 **SSN Rejection Letter**；在没有 SSN 的情况下不能申请大部分的信用卡，包括 Chase、Apple Card 等等。
+> SSN 全称 Social Security Number。在美国有了 SSN 以后，会变得方便很多。例如，没有 SSN 的情况下，申请 Driver License 和 State ID 需要出示 **SSN Rejection Letter**。在没有 SSN 的情况下不能申请大部分的信用卡，包括 Chase、Apple Card 等等。也不能注册美区 Stripe。
 
 ## F1 申请 SSN 条件
 - SS-5: SSN 申请表格
@@ -13,7 +13,7 @@ tags: [SSN, F1]
 - I-94: 证明你是合法进入美国的
 - 有效的 I-20: 证明你在美国有合法的身份
 - 地址证明: 租房合同，银行卡账单等等
-- 学校 OIS 出示的推荐信或者工作录用的 Offer
+- 学校 OIS 出示的介绍信（校内实习工作）或者工作录用的 Offer（校外工作）
 
 ## 申请经历
 第一次申请的时候，为了办 **State ID**，直接跟 SSA 的小哥说，我不要 SSN，我要 SSN Rejection Letter，结果没花两分钟，小哥就打印给我了。 
