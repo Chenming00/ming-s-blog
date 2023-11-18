@@ -12,9 +12,9 @@ tags: [ChatGPT, ChatGPT Plus]
 ### 最新方案
 登录帐号，点击 [https://chat.openai.com/invite/accepted](https://chat.openai.com/invite/accepted)，会发生奇妙的故事。
 
-**请忽略下面的废话**
-
 ---
+
+**请忽略下面的废话**
 
 ### 登录帐号
 直接访问 [https://chat.openai.com/api/auth/session](https://chat.openai.com/api/auth/session)，你可以在这里面找到一个 **accessToken** 的数据。复制 **accessToken** 的 Value。如果你是小白，不知道怎么找到的话，建议你复制到 [https://jsonformatter.org](https://jsonformatter.org) 后查看，或者安装 Chrome 插件 [JSON Viewer](https://chrome.google.com/webstore/detail/gbmdgpbipfallnflgajpaliibnhdgobh)。
