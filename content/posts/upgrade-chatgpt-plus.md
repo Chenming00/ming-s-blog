@@ -13,6 +13,7 @@ tags: [ChatGPT, ChatGPT Plus]
 登录帐号，点击 [https://chat.openai.com/invite/accepted](https://chat.openai.com/invite/accepted)，会发生奇妙的故事。
 
 **请忽略下面的废话**
+
 ---
 
 ### 登录帐号
