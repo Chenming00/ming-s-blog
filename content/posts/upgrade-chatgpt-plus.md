@@ -7,6 +7,8 @@ tags: [ChatGPT, ChatGPT Plus]
 
 > 在前段时间 ChatGPT 不再允许新用户订阅 ChatGPT Plus 方案，前几天我刷到了一个偷渡升级的方案，发在了我的 Twitter，但是没具体说如何执行这段代码，本篇文章主要就是介绍完整的操作流程。
 
+**如果出现帐号封禁等任何异常的情况，我不承担任何责任，后果自负。如果您担心这样的事情发现，您可以关闭这个页面了。**
+
 ### 登录帐号
 直接访问 [https://chat.openai.com/api/auth/session](https://chat.openai.com/api/auth/session)，你可以在这里面找到一个 **accessToken** 的数据。复制 **accessToken** 的 Value。如果你是小白，不知道怎么找到的话，建议你复制到 [https://jsonformatter.org](https://jsonformatter.org) 后查看，或者安装 Chrome 插件 [JSON Viewer](https://chrome.google.com/webstore/detail/gbmdgpbipfallnflgajpaliibnhdgobh)。
 
