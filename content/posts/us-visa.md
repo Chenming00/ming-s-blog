@@ -10,7 +10,7 @@ tags: [US, Visa]
 
 ## Information
 
-**Last updated on: 2023-11-22 17:01:31** (Updated every 3 hours)
+**Last updated on: 2023-11-22 20:01:47** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
@@ -71,9 +71,9 @@ tags: [US, Visa]
 ### Hong Kong - P84
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 93 | 2024-02-23 |
-| Yes | Students/Exchange Visitors (F, M, J) | 16 | 2023-12-08 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 14 | 2023-12-06 |
+| Yes | Visitors (B1/B2)  | 100 | 2024-03-01 |
+| Yes | Students/Exchange Visitors (F, M, J) | 33 | 2023-12-25 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 45 | 2024-01-06 |
 | Yes | Crew and Transit (C, D, C1/D) | 3 | 2023-11-25 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2023-11-23 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2023-11-23 |
