@@ -2,6 +2,7 @@
 title: 'Defending Rights in China'
 date: 2022-04-07 04:56:46
 tags: [Shanghai, DiDi, China]
+draft: true
 ---
 
 > 今天有早八的课，本来早该睡觉了。当我看了微博的一些关于`上海疫情`的新闻之后，引发了我的思考，突然精神起来了。
