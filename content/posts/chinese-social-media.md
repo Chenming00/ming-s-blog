@@ -2,7 +2,7 @@
 title: 'Withdrawal from Chinese social media platforms'
 date: 2022-10-14 23:41:14
 tags: [Weibo, Social Media]
-draft: false
+draft: true
 ---
 2022 年 8 月 15 日，我做了两个小时视频，准备在 `哔哩哔哩` 发布。当我上传完成后，静静等待审核。结果竟然是审核不通过。开始对 `哔哩哔哩` 感到失望。之后再也没有更新过任何视频。
 
