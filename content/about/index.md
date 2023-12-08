@@ -33,6 +33,8 @@ Mac mini 2020
 iPad mini 6  
 iPhone 12 Pro  
 iPhone 15 Pro Max    
+iPhone SE 3  
+Google Pixel 6a  
 Xiaomi Civi  
 Apple Watch SE  
 AirPods Pro 2  
@@ -41,6 +43,7 @@ Magic Keyboard with Touch ID
 LG Monitor 27UL550-W  
 Readmi Router AX6000  
 NETGEAR Router R6700AXS  
+ASUS Router RT-AX1800S  
 Lenovo ThinkStation P520  
 ~~AirPods 2~~  
 ~~KeyChron K2~~  
