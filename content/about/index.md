@@ -11,14 +11,14 @@ This site is mainly used for the personal life of the blogger.
 
 ## 👨‍💻 Who is the blogger
 - Vincent(YingTao) Young
-- Libra, born on October 10, 2000
+- Libra, born on October 2000
 - From 🇨🇳 Zhejiang, now in 🇺🇸 Pittsburgh, PA
 - Master Student, studying Computer Science at [University of Pittsburgh](https://www.pitt.edu)
 
 ## ⛹ Interests
 - Basketball (Golden State Warriors fans)
 - Travel (love to go see the sea)
-- Programming (working on learning Flutter)
+- Programming (working on learning Golang)
 
 ## 📬 Contact me
 Email: [i@yyt.moe](mailto:i@yyt.moe)  
