@@ -10,7 +10,7 @@ hidemeta: true
 This site is mainly used for the personal life of the blogger.
 
 ## 👨‍💻 Who is the blogger
-- Vincent(YingTao) Young
+- Vincent (Yingtao) Young
 - Libra, born on October 2000
 - From 🇨🇳 Zhejiang, now in 🇺🇸 Pittsburgh, PA
 - Master Student, studying Computer Science at [University of Pittsburgh](https://www.pitt.edu)
