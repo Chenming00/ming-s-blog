@@ -1,5 +1,5 @@
 ---
-title: "Apply for Japan eVisa in the United States."
+title: "Apply for Japan eVisa in the United States"
 date: 2023-12-08T15:02:02-05:00
 draft: false
 tags: [eVisa, Japan, US, New York]
