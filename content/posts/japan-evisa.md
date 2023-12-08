@@ -40,3 +40,6 @@ tags: [eVisa, Japan, US, New York]
 
 ![20231208QhXN8v](https://r2.qwq.mx/blog/20231208QhXN8v.png)
 ![20231208ptS2Z0](https://r2.qwq.mx/blog/20231208ptS2Z0.png)
+
+## 参考
+[https://piao.tips/japan-evisa/](https://piao.tips/japan-evisa/)
