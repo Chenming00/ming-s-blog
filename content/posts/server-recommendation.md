@@ -17,6 +17,6 @@ tags: [VPS, Server]
 |  BuyVM | Las Vegas | 1C/1G/270G/UNLIMITED | 3.75CAD/月 | 便宜 / 支持 BGP Session |
 |  Vultr | Seattle | 1C/0.5G/10G/1T | Free | 白嫖 |
 |  Oracle | Seoul / Chuncheon | 2C/1G/40G/10T | Free | 白嫖了很多台 |
-|  BeroHost  | Hessen | 8C/24G/420G/25T | 10EUR/月 | 7443P 配置高 |
+|  BeroHost  | Hessen | 8C/24G/420G/25T | 10EUR/月 | 7443P CPU 配置高 |
 
 **目前在跑服务的主要是 BeroHost 和 GreenCloud。**
