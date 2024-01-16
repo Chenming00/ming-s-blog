@@ -18,11 +18,10 @@ tags: [GPT-4, Copilot, ChatGPT]
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/aaamoon/copilot-gpt4-service/master/shells/get_copilot_token.sh)"
 ```
 
-接下来主要使用的是 [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)，GitHub 目前的版本还没有合并我的 PR，所以在部署之后，每次请求都应该携带在上一步获取的 **Copilot Token**。我改进之后的版本是当你在环境变量或者配置文件中填写了 Copilot Token，则无需在每次请求时携带，会优先使用环境变量或者配置文件提供的 Token。
+接下来主要使用的是 [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)，~~GitHub 目前的版本还没有合并我的 PR~~，所以在部署之后，每次请求都应该携带在上一步获取的 **Copilot Token**。我改进之后的版本是当你在环境变量或者配置文件中填写了 Copilot Token，则无需在每次请求时携带，会优先使用环境变量或者配置文件提供的 Token。
 
 ```bash
-mkdir copilot-gpt4-service && cd copilot-gpt4-service
-wget -O compose.yaml https://raw.githubusercontent.com/missuo/copilot-gpt4-service/dev/docker-compose.yml
+git clone https://github.com/aaamoon/copilot-gpt4-service && cd copilot-gpt4-service
 nano compose.yaml # 修改成你自己的 COPILOT_TOKEN
 docker compose up -d
 ```
