@@ -1,5 +1,5 @@
 ---
-title: "Chat With Strangers"
+title: "Chat with Strangers"
 date: 2024-01-19T22:15:53-05:00
 draft: false
 tags: [Talk, Chat]
