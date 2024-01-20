@@ -20,4 +20,4 @@ tags: [Talk, Chat]
 
 ## 如何预约
 
-您可以点击 [这个链接](https://cal.com/missuo/talk) 预约任何空闲的时间，预约成功之后请给我 [发邮件](mailto:me@missuo.me) 告诉我您想聊得大概内容。如果临时有事情需要改时间请通过邮件联系我。
+您可以点击 [这个链接](https://cal.com/missuo/talk) 预约任何空闲的时间，预约成功之后请给我 [发邮件](mailto:me@missuo.me) 告诉我您想聊的大概内容。如果临时有事情需要改时间也请通过邮件联系我。
