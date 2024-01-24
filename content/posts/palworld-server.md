@@ -52,3 +52,7 @@ docker compose up -d
 最后记得开放一下 8211 和 27015 端口，记得开启 UDP。
 
 PS: 美国东部的朋友可以用我搭建的服务器。
+
+## Reference
+- [https://github.com/thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker)
+- [https://github.com/jammsen/docker-palworld-dedicated-server](https://github.com/jammsen/docker-palworld-dedicated-server)
