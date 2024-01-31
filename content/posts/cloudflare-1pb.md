@@ -33,6 +33,8 @@ tags: [Cloudflare, 1PB]
 
 ![202401308yg7H3](https://r2.qwq.mx/blog/202401308yg7H3.png)
 
+![20240131AeVWsw](https://r2.qwq.mx/blog/20240131AeVWsw.png)
+
 我不知道还能支撑多久，毕竟这样的公益图床站点没有收益，而且还要承担很大的风险，也许有一天会永久关闭，且用且珍惜吧。
 
 感谢 Telegraph 和 Cloudflare 过去提供的免费服务。
