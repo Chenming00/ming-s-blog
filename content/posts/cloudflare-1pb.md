@@ -29,11 +29,13 @@ tags: [Cloudflare, 1PB]
 
 为了防止被滥用，我修改了一些 Nginx 的配置，例如我限制了一些图片格式，限制了 Origin。24 小时内流量从 50T 降到了 不到 4T。我也在 Cloudflare 的控制面板上设置了一些规则。
 
-我的好朋友 [SteveYi](https://twitter.com/steveyiyo) 也在第一时间私信我，愿意提供 VM。在这里特别感谢小易。直到目前为止，已经迁移到加州的 10Gbps 带宽的服务器，不再依赖 Cloudflare。
+我的好朋友 [SteveYi](https://twitter.com/steveyiyo) 也在第一时间私信我，愿意提供 VM。在这里特别感谢小易。直到目前为止，已经迁移到加州的 100Gbps 带宽的服务器，不再依赖 Cloudflare。
 
 ![202401308yg7H3](https://r2.qwq.mx/blog/202401308yg7H3.png)
 
-![20240131AeVWsw](https://r2.qwq.mx/blog/20240131AeVWsw.png)
+![202402024GReqq](https://r2.qwq.mx/blog/202402024GReqq.png)
+
+**突破了 4Gbps 的入站和出站流量**
 
 我不知道还能支撑多久，毕竟这样的公益图床站点没有收益，而且还要承担很大的风险，也许有一天会永久关闭，且用且珍惜吧。
 
