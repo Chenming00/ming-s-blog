@@ -1,7 +1,7 @@
 ---
 title: "Mysterious Airline Ticket"
 date: 2024-02-04T02:16:31-05:00
-draft: false
+draft: true
 tags: [Airline Ticket]
 ---
 
