@@ -91,7 +91,9 @@ embassyCodeList = [
     "P188", # Shenyang
     "P84", # Hong Kong
     "P22", # Bangkok
-    "P205" # Tokyo
+    "P205", # Tokyo
+    "P206", # Toronto
+    "P211" # Vancouver
 ]
 
 embassyNameList = [
@@ -101,7 +103,10 @@ embassyNameList = [
     "Shenyang",
     "Hong Kong",
     "Bangkok",
-    "Tokyo"
+    "Tokyo",
+    "Toronto",
+    "Vancouver"
+    
 ]
 
 initializeMd()
