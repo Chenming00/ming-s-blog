@@ -10,7 +10,7 @@ tags: [US, Visa]
 
 ## Information
 
-**Last updated on: 2024-02-14 17:01:25** (Updated every 3 hours)
+**Last updated on: 2024-02-14 20:01:44** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
@@ -127,10 +127,10 @@ tags: [US, Visa]
 ### Vancouver - P211
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 808 | 2026-05-02 |
+| Yes | Visitors (B1/B2)  | 818 | 2026-05-12 |
 | Yes | Students/Exchange Visitors (F, M, J) | 3 | 2024-02-17 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 135 | 2024-06-28 |
-| Yes | Crew and Transit (C, D, C1/D) | 135 | 2024-06-28 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 72 | 2024-04-26 |
+| Yes | Crew and Transit (C, D, C1/D) | 72 | 2024-04-26 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 10 | 2024-02-24 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 10 | 2024-02-24 |
 | Waiver | Crew and Transit (C, D, C1/D) | 10 | 2024-02-24 |
