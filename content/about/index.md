@@ -28,7 +28,7 @@ Instagram: [m1ssuo](https://instagram.com/m1ssuo)
 GitHub: [missuo](https://github.com/missuo)  
 
 ## 📱 My device
-Mac Studio 2022
+Mac Studio 2022  
 MacBook Pro 2021  
 Mac mini 2020  
 iPad mini 6  
