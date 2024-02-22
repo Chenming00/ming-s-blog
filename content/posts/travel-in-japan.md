@@ -23,61 +23,61 @@ tags: [Travel, Japan, Tokyo]
 ## 入境日本
 我的两次入境都是在 NRT (Narita Airport)，第一次入境的时候由于 Visitor 通道的人太多了，我被现在的工作人员引流到了日本人通道，所以入境非常快，全程不到 3 分钟。第二次就没那么幸运了，排在了 Visitor 通道人特别多，全程大概花费 30 分钟以上。不过入境日本不用安检，仅需填写两个单子即可，这一点非常方便。
 
-![20240114a86fAe](https://r2.qwq.mx/blog/20240114a86fAe.jpeg)
+![20240114a86fAe](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114a86fAe.jpeg)
 
-![20240114Tcw8mH](https://r2.qwq.mx/blog/20240114Tcw8mH.jpeg)
+![20240114Tcw8mH](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114Tcw8mH.jpeg)
 
-![20240114HfCLNo](https://r2.qwq.mx/blog/20240114HfCLNo.jpeg)
+![20240114HfCLNo](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114HfCLNo.jpeg)
 
-![20240114WkDkh5](https://r2.qwq.mx/blog/20240114WkDkh5.jpeg)
+![20240114WkDkh5](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114WkDkh5.jpeg)
 
-![20240114PmkCOt](https://r2.qwq.mx/blog/20240114PmkCOt.jpeg)
+![20240114PmkCOt](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114PmkCOt.jpeg)
 
-![20240114AmS3CH](https://r2.qwq.mx/blog/20240114AmS3CH.jpeg)
+![20240114AmS3CH](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114AmS3CH.jpeg)
 
-![202401141vPYCh](https://r2.qwq.mx/blog/202401141vPYCh.jpeg)
+![202401141vPYCh](https://static.qwq.mx/https://r2.qwq.mx/blog/202401141vPYCh.jpeg)
 
-![20240114vZMPRw](https://r2.qwq.mx/blog/20240114vZMPRw.jpeg)
+![20240114vZMPRw](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114vZMPRw.jpeg)
 
-![20240114btAMhw](https://r2.qwq.mx/blog/20240114btAMhw.jpeg)
+![20240114btAMhw](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114btAMhw.jpeg)
 
-![20240114JzeTVD](https://r2.qwq.mx/blog/20240114JzeTVD.jpeg)
+![20240114JzeTVD](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114JzeTVD.jpeg)
 
-![202401142ylfo5](https://r2.qwq.mx/blog/202401142ylfo5.jpeg)
+![202401142ylfo5](https://static.qwq.mx/https://r2.qwq.mx/blog/202401142ylfo5.jpeg)
 
-![20240114V70saV](https://r2.qwq.mx/blog/20240114V70saV.jpeg)
+![20240114V70saV](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114V70saV.jpeg)
 
-![202401146Bb5U7](https://r2.qwq.mx/blog/202401146Bb5U7.jpeg)
+![202401146Bb5U7](https://static.qwq.mx/https://r2.qwq.mx/blog/202401146Bb5U7.jpeg)
 
-![20240114z4lyZ9](https://r2.qwq.mx/blog/20240114z4lyZ9.jpeg)
+![20240114z4lyZ9](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114z4lyZ9.jpeg)
 
-![20240114WH9wSo](https://r2.qwq.mx/blog/20240114WH9wSo.jpeg)
+![20240114WH9wSo](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114WH9wSo.jpeg)
 
-![20240114L11erc](https://r2.qwq.mx/blog/20240114L11erc.jpeg)
+![20240114L11erc](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114L11erc.jpeg)
 
-![202401143KAPZj](https://r2.qwq.mx/blog/202401143KAPZj.jpeg)
+![202401143KAPZj](https://static.qwq.mx/https://r2.qwq.mx/blog/202401143KAPZj.jpeg)
 
-![20240114DeSWZt](https://r2.qwq.mx/blog/20240114DeSWZt.jpeg)
+![20240114DeSWZt](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114DeSWZt.jpeg)
 
-![20240114PHpReI](https://r2.qwq.mx/blog/20240114PHpReI.jpeg)
+![20240114PHpReI](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114PHpReI.jpeg)
 
-![20240114MWhohQ](https://r2.qwq.mx/blog/20240114MWhohQ.jpeg)
+![20240114MWhohQ](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114MWhohQ.jpeg)
 
-![202401146eUDYO](https://r2.qwq.mx/blog/202401146eUDYO.jpeg)
+![202401146eUDYO](https://static.qwq.mx/https://r2.qwq.mx/blog/202401146eUDYO.jpeg)
 
-![20240114W9dUFN](https://r2.qwq.mx/blog/20240114W9dUFN.jpeg)
+![20240114W9dUFN](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114W9dUFN.jpeg)
 
-![20240114EUe00X](https://r2.qwq.mx/blog/20240114EUe00X.jpg)
+![20240114EUe00X](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114EUe00X.jpg)
 
-![202401148f1V41](https://r2.qwq.mx/blog/202401148f1V41.jpg)
+![202401148f1V41](https://static.qwq.mx/https://r2.qwq.mx/blog/202401148f1V41.jpg)
 
-![20240114839Llb](https://r2.qwq.mx/blog/20240114839Llb.jpeg)
+![20240114839Llb](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114839Llb.jpeg)
 
-![20240114zMeYM2](https://r2.qwq.mx/blog/20240114zMeYM2.jpg)
+![20240114zMeYM2](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114zMeYM2.jpg)
 
-![2024011444hqkt](https://r2.qwq.mx/blog/2024011444hqkt.jpg)
+![2024011444hqkt](https://static.qwq.mx/https://r2.qwq.mx/blog/2024011444hqkt.jpg)
 
-![20240114XXK3aB](https://r2.qwq.mx/blog/20240114XXK3aB.jpeg)
+![20240114XXK3aB](https://static.qwq.mx/https://r2.qwq.mx/blog/20240114XXK3aB.jpeg)
 
 **以上的所有照片均使用 FujiFilm X-S10 XC35F2 和 iPhone 15 Pro Max 拍摄。**
 
