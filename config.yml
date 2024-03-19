@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: UA-123-45
+googleAnalytics: GTM-KV7KW3LH
 
 minify:
     disableXML: true
@@ -18,6 +18,7 @@ minify:
 
 languages:
     en:
+        title: Vincent's Notes
         languageName: "English"
         weight: 1
         taxonomies:
@@ -53,8 +54,11 @@ outputs:
 
 params:
     env: production
+    title: "Vincent's Notes"
     description: "Record, Share and Archive"
+    keywords: "Blog, Technologic, Networking, Program, Travel, BGP"
     author: Vincent Young
+    images: ["https://r2.qwq.mx/blog/20240318CGUAM3.jpg"]
     DateFormat: "Monday, January 2, 2006"
     defaultTheme: light
     disableThemeToggle: false
@@ -103,24 +107,10 @@ params:
     assets:
         disableHLJS: false
         favicon: "https://r2.qwq.mx/blog/20230104uZXT8s.ico"
-    #     favicon16x16: "<link / abs url>"
-    #     favicon32x32: "<link / abs url>"
-    #     apple_touch_icon: "<link / abs url>"
-    #     safari_pinned_tab: "<link / abs url>"
-
-    # cover:
-    #     hidden: true # hide everywhere but not in structured data
-    #     hiddenInList: true # hide on list pages and home
-    #     hiddenInSingle: true # hide on single page
-
-    # fuseOpts:
-    #     isCaseSensitive: false
-    #     shouldSort: true
-    #     location: 0
-    #     distance: 1000
-    #     threshold: 0.4
-    #     minMatchCharLength: 0
-    #     keys: ["title", "permalink", "summary", "content"]
+        favicon16x16: "https://r2.qwq.mx/blog/20230104uZXT8s.ico"
+        favicon32x32: "https://r2.qwq.mx/blog/20230104uZXT8s.ico"
+        apple_touch_icon: "https://r2.qwq.mx/blog/20230104uZXT8s.ico"
+        safari_pinned_tab: "https://r2.qwq.mx/blog/20230104uZXT8s.ico"
 
 markup:
     goldmark:

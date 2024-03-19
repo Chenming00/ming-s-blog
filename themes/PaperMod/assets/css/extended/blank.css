@@ -79,7 +79,3 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 .toc li a:hover {
     color: var(--secondary);
 }
-
-img:active {
-    transform: scale(1.35,1.35)
-}
