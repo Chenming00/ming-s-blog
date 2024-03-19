@@ -56,7 +56,7 @@ params:
     env: production
     title: "Vincent's Notes"
     description: "Record, Share and Archive"
-    keywords: "Blog, Technologic, Networking, Program, Travel, BGP"
+    keywords: [Blog, Technologic, Networking, Program, Travel, BGP]
     author: Vincent Young
     images: ["https://r2.qwq.mx/blog/20240318CGUAM3.jpg"]
     DateFormat: "Monday, January 2, 2006"
