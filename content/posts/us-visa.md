@@ -10,7 +10,7 @@ tags: [US, Visa]
 
 ## Information
 
-**Last updated on: 2024-04-10 14:01:42** (Updated every 3 hours)
+**Last updated on: 2024-04-10 17:01:15** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
@@ -43,10 +43,10 @@ tags: [US, Visa]
 ### Guangzhou - P73
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 135 | 2024-08-23 |
-| Yes | Students/Exchange Visitors (F, M, J) | 9 | 2024-04-19 |
+| Yes | Visitors (B1/B2)  | 134 | 2024-08-22 |
+| Yes | Students/Exchange Visitors (F, M, J) | 12 | 2024-04-22 |
 | Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 7 | 2024-04-17 |
-| Yes | Crew and Transit (C, D, C1/D) | 3 | 2024-04-13 |
+| Yes | Crew and Transit (C, D, C1/D) | 2 | 2024-04-12 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2024-04-11 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2024-04-11 |
 | Waiver | Crew and Transit (C, D, C1/D) | 1 | 2024-04-11 |
@@ -127,7 +127,7 @@ tags: [US, Visa]
 ### Vancouver - P211
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 712 | 2026-03-23 |
+| Yes | Visitors (B1/B2)  | 730 | 2026-04-10 |
 | Yes | Students/Exchange Visitors (F, M, J) | 16 | 2024-04-26 |
 | Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 53 | 2024-06-02 |
 | Yes | Crew and Transit (C, D, C1/D) | 53 | 2024-06-02 |
