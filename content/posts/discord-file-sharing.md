@@ -13,7 +13,7 @@ Here I use Go to implement this function. First we need a Bot Token. This Token 
 
 In the design of [https://github.com/missuo/discord-image](https://github.com/missuo/discord-image), every time a file is uploaded (for example images), it will not Directly returns the link to Discord, but returns a link to `https://example.com/file/{message_id}`. `/file` is an API. Every time this API is requested, it will go to Discord to get the latest link, and then Return to user. This achieves the effect that the link does not expire.
 
-In addition, since `cdn.discordapp.com` has been blocked by GFW in mainland China, this problem can be solved with a simple Nginx Reverse Proxy or Cloudflare Workers.
+In addition, since `cdn.discordapp.com` has been blocked by GFW in mainland China, this problem can be solved with a simple **Nginx Reverse Proxy** or **Cloudflare Workers**.
 
 Compared with the Telegraph I shared before, using Discord supports a single file of 25MB, while the previous Telegraph only supported 5MB. In this way, we can use Discord to share larger files. Moreover, Discord supports more file types. In the past, it was impossible to delete files after uploading via Telegraph, but Discord can delete files directly in your Channel.
 
