@@ -13,7 +13,7 @@ Discord 似乎个人账户是不存在 API 的，但是可以随意地创建 Bot
 
 在 [https://github.com/missuo/discord-image](https://github.com/missuo/discord-image) 的设计中，每次上传完文件（以图片为例），并不会直接返回 Discord 的链接，而是返回一个 `https://example.com/file/{message_id}` 的链接，`/file` 是一个 API，每次请求这个 API 都会去 Discord 获取最新的链接，然后返回给用户。这样就实现了链接用不失效的效果。
 
-除此之外，由于 `cdn.discordapp.com` 在中国大陆已经被 GFW 封锁，但是关于这个问题，可以用简单的 Nginx Reverse Proxy 或者是 Cloudflare Worker 来解决。
+除此之外，由于 `cdn.discordapp.com` 在中国大陆已经被 GFW 封锁，但是关于这个问题，可以用简单的 Nginx Reverse Proxy 或者是 Cloudflare Workers 来解决。
 
 比起我之前分享过的 Telegraph 来说，利用 Discord 支持单文件 25MB，而过去的 Telegraph 只支持 5MB，这样的话，我们就可以利用 Discord 来分享更大的文件。而且 Discord 支持的文件类型更加丰富，过去利用 Telegraph 上传之后是无法进行删除的操作的，而 Discord 可以直接在你的 Channel 直接删除文件。
 
