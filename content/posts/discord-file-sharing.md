@@ -11,7 +11,7 @@ Discord seems to have no API for personal accounts, but you can create a Bot at 
 
 Here I use Go to implement this function. First we need a Bot Token. This Token can be obtained after creating a Bot in [Discord Developer Portal](https://discord.com/developers/applications).
 
-In the design of [https://github.com/missuo/discord-image](https://github.com/missuo/discord-image), every time a file is uploaded (taking pictures as an example), it will not Directly returns the link to Discord, but returns a link to `https://example.com/file/{message_id}`. `/file` is an API. Every time this API is requested, it will go to Discord to get the latest link, and then Return to user. This achieves the effect that the link does not expire.
+In the design of [https://github.com/missuo/discord-image](https://github.com/missuo/discord-image), every time a file is uploaded (for example images), it will not Directly returns the link to Discord, but returns a link to `https://example.com/file/{message_id}`. `/file` is an API. Every time this API is requested, it will go to Discord to get the latest link, and then Return to user. This achieves the effect that the link does not expire.
 
 In addition, since `cdn.discordapp.com` has been blocked by GFW in mainland China, this problem can be solved with a simple Nginx Reverse Proxy or Cloudflare Workers.
 
