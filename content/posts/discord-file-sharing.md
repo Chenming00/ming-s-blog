@@ -5,6 +5,24 @@ draft: false
 tags: [Discord, Go, File Sharing]
 ---
 
+Friends who have used Discord should know that pictures, audios, videos and any other files sent in any server will generate a link starting with `https://cdn.discordapp.com/attachments/`. The link is directly accessible, but unfortunately the link expires after 24 hours. But as long as the latest link is obtained every 24 hours, you should be able to use this to implement the image bed or file sharing function.
+
+Discord seems to have no API for personal accounts, but you can create a Bot at will. We only need to create a Bot, then add the Bot to your own private Server, and give the Bot permission to send messages and media files, and then you can use the API Receive the file, and then send the file to the Channel through Bot.
+
+Here I use Go to implement this function. First we need a Bot Token. This Token can be obtained after creating a Bot in [Discord Developer Portal](https://discord.com/developers/applications).
+
+In the design of [https://github.com/missuo/discord-image](https://github.com/missuo/discord-image), every time a file is uploaded (taking pictures as an example), it will not Directly returns the link to Discord, but returns a link to `https://example.com/file/{message_id}`. `/file` is an API. Every time this API is requested, it will go to Discord to get the latest link, and then Return to user. This achieves the effect that the link does not expire.
+
+In addition, since `cdn.discordapp.com` has been blocked by GFW in mainland China, this problem can be solved with a simple Nginx Reverse Proxy or Cloudflare Workers.
+
+Compared with the Telegraph I shared before, using Discord supports a single file of 25MB, while the previous Telegraph only supported 5MB. In this way, we can use Discord to share larger files. Moreover, Discord supports more file types. In the past, it was impossible to delete files after uploading via Telegraph, but Discord can delete files directly in your Channel.
+
+But there are also some limitations. For example, the Attachments of a certain Discord Server may have an upper limit on the maximum capacity, which I am not sure yet. In addition, if your Bot is banned and you create a new Bot, all your previous links will be invalid. The reason is that after the new Bot enters the Server, it cannot see the historical records, so there will be no Method to get the URL of a previously uploaded file.
+
+I don’t know how long it can survive, so just use it and cherish it.
+
+---
+
 用过 Discord 的朋友应该知道，在任何的 Server 里面发的图片，音频，视频以及别的任何文件，都会生成一个以 `https://cdn.discordapp.com/attachments/` 开头的链接。这个链接是可以直接访问的，但是不幸的是这个链接会在 24 小时后失效。但是只要每 24 小时获取一次最新的链接，应该就可以利用这一点来实现图床或者是文件共享的功能。
 
 Discord 似乎个人账户是不存在 API 的，但是可以随意地创建 Bot，我们只要创建一个 Bot，然后把 Bot 添加到你自己私有的 Server 之后，给 Bot 赋予发送消息和媒体文件的权限，就可以通过 API 接收文件，然后再通过 Bot 发送文件到 Channel 里面。
