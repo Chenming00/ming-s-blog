@@ -1,5 +1,5 @@
 ---
-title: "AI ​​I’m currently using"
+title: "AI ​​I am currently using"
 date: 2024-04-20T08:25:21-04:00
 draft: false
 tags: [AI, LLM, Tools]
