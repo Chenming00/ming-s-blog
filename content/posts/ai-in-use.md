@@ -15,9 +15,9 @@ tags: [AI, LLM, Tools]
 
 | 平台 | 订阅 | 使用频率 | 使用场景 |
 | --- | --- | --- | --- |
-| ChatGPT | Plus & Team | 50% | 写代码/文本生成 |
+| ChatGPT | Plus & Team | 50% | 写代码 / 文本生成 |
 | Claude | Pro | 40% | 写代码 |
-| Perplexity | Pro | 10% | 检索信息/搜索引擎 |
+| Perplexity | Pro | 10% | 检索信息 / 搜索引擎 |
 
 我自己其实最多的场景还是写代码，之前就是单平台，完全依赖 ChatGPT，现在逐渐将这些场景交给 Claude Opus，个人觉得 Opus 比起 GPT-4 的表现更优秀。而 Perplexity 是我最近才开始使用的，主要是用来检索信息，它的优点就是使用次数可以很多，每天 600 次对我来说绰绰有余。
 
