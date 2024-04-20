@@ -39,8 +39,8 @@ tags: [AI, LLM, Tools]
 
 ## 我的项目
 
-- [bob-plugin-cohere](https://github.com/missuo/bob-plugin-cohere)：Cohere 的 Bob 翻译插件，可以在 Bob 上使用 Cohere 的 Command R+ 模型，这是我目前最常用的翻译模型了。
-- [bob-plugin-copilot](https://github.com/missuo/bob-plugin-copilot)：利用模拟 GitHub Copilot 的请求，可以在 Bob 上使用 OpenAI 的 GPT-4 模型进行翻译，**目前已经不再维护**。
+- [bob-plugin-cohere](https://github.com/missuo/bob-plugin-cohere)：Cohere 的 Bob 翻译插件，在 Bob 上使用 Cohere 的 Command R+ 模型，目前最常用的翻译模型了。
+- [bob-plugin-copilot](https://github.com/missuo/bob-plugin-copilot)：利用模拟 GitHub Copilot 的请求，在 Bob 上使用 OpenAI 的 GPT-4 模型进行翻译，**目前已经不再维护**。
 - [cohere2openai](https://github.com/missuo/cohere2openai)：将 Cohere 的 API 转换成兼容 OpenAI 的 API，方便在任何兼容 OpenAI 的应用中调用 Cohere 模型。
 - [claude2openai](https://github.com/missuo/claude2openai)：将 Claude 的 API 转换成兼容 OpenAI 的 API，方便在任何兼容 OpenAI 的应用中调用 Claude 模型。
 - [ClaudeProxy](https://github.com/missuo/ClaudeProxy)：Claude API 代理，让所有向 Claude API 发送的请求都来自一个 IP，避免被封号。
