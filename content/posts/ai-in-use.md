@@ -46,7 +46,7 @@ tags: [AI, LLM, Tools]
 - [ClaudeProxy](https://github.com/missuo/ClaudeProxy)：Claude API 代理，让所有向 Claude API 发送的请求都来自一个 IP，避免被封号。
 - [FreeGPT35](https://github.com/missuo/FreeGPT35)：利用免登录使用 ChatGPT 实现的免费 GPT-3.5-Turbo API，目前可能随时失效。
 
-以上项目如果在使用过程中遇到任何问题，请在 GitHub 上提 issue，我会在空余时间尽快解决。如果你有别的觉得有必要的需求，也可以在评论区留言，我会考虑实现。
+以上项目如果在使用过程中遇到任何问题，请在 GitHub 上提 issue，我会在空余时间尽快解决。如果你有别的需求，也可以在评论区留言，我会考虑实现。
 
 ## 一些经验
 
