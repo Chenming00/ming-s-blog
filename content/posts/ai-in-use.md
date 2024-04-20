@@ -50,4 +50,4 @@ tags: [AI, LLM, Tools]
 
 ## 一些经验
 
-建议不要使用美国以外的 IP 请求 Claude 的 API，否则很容易被封号。建议使用美国 Residential IP，实在没条件也可以使用 Business IP。实际测试下来 ChatGPT 和 Claude 帐号可以共享给很多人使用，并不会封号。目前我的帐号大概有 10 个人朋友在用，但是都是来自美国家宽的 IP，已经持续超过半年的时间，没有任何问题。
+建议不要使用美国以外的 IP 请求 Claude 的 API，否则很容易被封号。建议使用美国 Residential IP，实在没条件也可以使用 Business IP。实际测试下来 ChatGPT 和 Claude 帐号可以共享给很多人使用，并不会封号。目前我的帐号大概有 10 个朋友在用，都是来自美国家宽的 IP，已经持续超过半年的时间，没有任何问题。
