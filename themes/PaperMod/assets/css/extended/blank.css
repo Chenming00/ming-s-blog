@@ -3,3 +3,17 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
+
+@font-face {
+    font-family: "SourceHanSerifSC";
+    src: url('/fonts/SourceHanSerifSC-Regular.otf') format('opentype');
+}
+
+body
+{
+font-family: 'SourceHanSerifSC', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 18px;
+line-height: 1.6;
+word-break: break-word;
+background: var(--theme);
+}
