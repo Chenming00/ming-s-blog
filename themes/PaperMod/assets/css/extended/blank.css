@@ -8,7 +8,3 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
     font-family: "SourceHanSerifSC";
     src: url('/fonts/SourceHanSerifSC-Regular.otf') format('opentype');
 }
-
-body:lang(zh) {
-    font-family: 'SourceHanSerifSC', sans-serif;
-}
