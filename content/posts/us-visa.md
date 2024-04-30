@@ -10,7 +10,7 @@ tags: [US, Visa]
 
 ## Information
 
-**Last updated on: 2024-04-30 14:01:26** (Updated every 3 hours)
+**Last updated on: 2024-04-30 17:01:27** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
@@ -43,10 +43,10 @@ tags: [US, Visa]
 ### Guangzhou - P73
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 119 | 2024-08-27 |
-| Yes | Students/Exchange Visitors (F, M, J) | 9 | 2024-05-09 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 7 | 2024-05-07 |
-| Yes | Crew and Transit (C, D, C1/D) | 7 | 2024-05-07 |
+| Yes | Visitors (B1/B2)  | 118 | 2024-08-26 |
+| Yes | Students/Exchange Visitors (F, M, J) | 10 | 2024-05-10 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 6 | 2024-05-06 |
+| Yes | Crew and Transit (C, D, C1/D) | 3 | 2024-05-03 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2024-05-01 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2024-05-01 |
 | Waiver | Crew and Transit (C, D, C1/D) | 1 | 2024-05-01 |
@@ -99,10 +99,10 @@ tags: [US, Visa]
 ### Tokyo - P205
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 70 | 2024-07-09 |
-| Yes | Students/Exchange Visitors (F, M, J) | 2 | 2024-05-02 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 3 | 2024-05-03 |
-| Yes | Crew and Transit (C, D, C1/D) | 4 | 2024-05-04 |
+| Yes | Visitors (B1/B2)  | 63 | 2024-07-02 |
+| Yes | Students/Exchange Visitors (F, M, J) | 8 | 2024-05-08 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 2 | 2024-05-02 |
+| Yes | Crew and Transit (C, D, C1/D) | 8 | 2024-05-08 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2024-05-01 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2024-05-01 |
 | Waiver | Crew and Transit (C, D, C1/D) | 1 | 2024-05-01 |
