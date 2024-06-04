@@ -10,7 +10,7 @@ tags: [US, Visa]
 
 ## Information
 
-**Last updated on: 2024-06-04 14:01:46** (Updated every 3 hours)
+**Last updated on: 2024-06-04 17:01:20** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
@@ -43,9 +43,9 @@ tags: [US, Visa]
 ### Guangzhou - P73
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 70 | 2024-08-13 |
-| Yes | Students/Exchange Visitors (F, M, J) | 12 | 2024-06-16 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 4 | 2024-06-08 |
+| Yes | Visitors (B1/B2)  | 92 | 2024-09-04 |
+| Yes | Students/Exchange Visitors (F, M, J) | 9 | 2024-06-13 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 9 | 2024-06-13 |
 | Yes | Crew and Transit (C, D, C1/D) | 11 | 2024-06-15 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2024-06-05 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2024-06-05 |
@@ -86,8 +86,8 @@ tags: [US, Visa]
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
 | Yes | Visitors (B1/B2)  | 71 | 2024-08-14 |
-| Yes | Students/Exchange Visitors (F, M, J) | 2 | 2024-06-06 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 2 | 2024-06-06 |
+| Yes | Students/Exchange Visitors (F, M, J) | 1 | 2024-06-05 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2024-06-05 |
 | Yes | Crew and Transit (C, D, C1/D) | 2 | 2024-06-06 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2024-06-05 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2024-06-05 |
@@ -113,14 +113,14 @@ tags: [US, Visa]
 ### Toronto - P206
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 850 | 2026-10-02 |
-| Yes | Students/Exchange Visitors (F, M, J) | 50 | 2024-07-24 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 50 | 2024-07-24 |
-| Yes | Crew and Transit (C, D, C1/D) | 850 | 2026-10-02 |
-| Waiver | Students/Exchange Visitors (F, M, J) | 45 | 2024-07-19 |
-| Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 45 | 2024-07-19 |
-| Waiver | Crew and Transit (C, D, C1/D) | 45 | 2024-07-19 |
-| Waiver | Visitors (B1/B2) | 45 | 2024-07-19 |
+| Yes | Visitors (B1/B2)  | 900 | 2026-11-21 |
+| Yes | Students/Exchange Visitors (F, M, J) | 77 | 2024-08-20 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 51 | 2024-07-25 |
+| Yes | Crew and Transit (C, D, C1/D) | 900 | 2026-11-21 |
+| Waiver | Students/Exchange Visitors (F, M, J) | 60 | 2024-08-03 |
+| Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 60 | 2024-08-03 |
+| Waiver | Crew and Transit (C, D, C1/D) | 60 | 2024-08-03 |
+| Waiver | Visitors (B1/B2) | 60 | 2024-08-03 |
 
 
     
