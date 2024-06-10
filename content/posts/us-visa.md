@@ -10,7 +10,7 @@ tags: [US, Visa]
 
 ## Information
 
-**Last updated on: 2024-06-10 14:01:48** (Updated every 3 hours)
+**Last updated on: 2024-06-10 17:01:18** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
@@ -85,22 +85,22 @@ tags: [US, Visa]
 ### Bangkok - P22
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 71 | 2024-08-20 |
+| Yes | Visitors (B1/B2)  | 72 | 2024-08-21 |
 | Yes | Students/Exchange Visitors (F, M, J) | 1 | 2024-06-11 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2024-06-11 |
-| Yes | Crew and Transit (C, D, C1/D) | 2 | 2024-06-12 |
-| Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2024-06-11 |
-| Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2024-06-11 |
-| Waiver | Crew and Transit (C, D, C1/D) | 1 | 2024-06-11 |
-| Waiver | Visitors (B1/B2) | 1 | 2024-06-11 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 2 | 2024-06-12 |
+| Yes | Crew and Transit (C, D, C1/D) | 1 | 2024-06-11 |
+| Waiver | Students/Exchange Visitors (F, M, J) | 2 | 2024-06-12 |
+| Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 2 | 2024-06-12 |
+| Waiver | Crew and Transit (C, D, C1/D) | 2 | 2024-06-12 |
+| Waiver | Visitors (B1/B2) | 2 | 2024-06-12 |
 
 
     
 ### Tokyo - P205
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 74 | 2024-08-23 |
-| Yes | Students/Exchange Visitors (F, M, J) | 3 | 2024-06-13 |
+| Yes | Visitors (B1/B2)  | 70 | 2024-08-19 |
+| Yes | Students/Exchange Visitors (F, M, J) | 7 | 2024-06-17 |
 | Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 3 | 2024-06-13 |
 | Yes | Crew and Transit (C, D, C1/D) | 3 | 2024-06-13 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2024-06-11 |
