@@ -1,7 +1,7 @@
 ---
 title: "Facing Github Issues"
 date: 2024-04-27T22:43:15-04:00
-draft: false
+draft: true
 tags: [GitHub Issues, Open Source]
 ---
 
