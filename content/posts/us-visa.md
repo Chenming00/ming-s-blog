@@ -10,7 +10,7 @@ tags: [US, Visa]
 
 ## Information
 
-**Last updated on: 2024-07-19 14:01:47** (Updated every 3 hours)
+**Last updated on: 2024-07-19 17:01:21** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
@@ -99,10 +99,10 @@ tags: [US, Visa]
 ### Tokyo - P205
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 105 | 2024-11-01 |
-| Yes | Students/Exchange Visitors (F, M, J) | 3 | 2024-07-22 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 24 | 2024-08-12 |
-| Yes | Crew and Transit (C, D, C1/D) | 15 | 2024-08-03 |
+| Yes | Visitors (B1/B2)  | 117 | 2024-11-13 |
+| Yes | Students/Exchange Visitors (F, M, J) | 8 | 2024-07-27 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 28 | 2024-08-16 |
+| Yes | Crew and Transit (C, D, C1/D) | 12 | 2024-07-31 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2024-07-20 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2024-07-20 |
 | Waiver | Crew and Transit (C, D, C1/D) | 1 | 2024-07-20 |
