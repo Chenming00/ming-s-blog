@@ -10,7 +10,7 @@ tags: [US, Visa]
 
 ## Information
 
-**Last updated on: 2024-07-29 14:01:59** (Updated every 3 hours)
+**Last updated on: 2024-07-29 17:01:26** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
@@ -29,10 +29,10 @@ tags: [US, Visa]
 ### Shanghai - P187
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 92 | 2024-10-29 |
-| Yes | Students/Exchange Visitors (F, M, J) | 45 | 2024-09-12 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 52 | 2024-09-19 |
-| Yes | Crew and Transit (C, D, C1/D) | 43 | 2024-09-10 |
+| Yes | Visitors (B1/B2)  | 87 | 2024-10-24 |
+| Yes | Students/Exchange Visitors (F, M, J) | 36 | 2024-09-03 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 80 | 2024-10-17 |
+| Yes | Crew and Transit (C, D, C1/D) | 42 | 2024-09-09 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2024-07-30 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2024-07-30 |
 | Waiver | Crew and Transit (C, D, C1/D) | 1 | 2024-07-30 |
@@ -99,10 +99,10 @@ tags: [US, Visa]
 ### Tokyo - P205
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 42 | 2024-09-09 |
-| Yes | Students/Exchange Visitors (F, M, J) | 4 | 2024-08-02 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 28 | 2024-08-26 |
-| Yes | Crew and Transit (C, D, C1/D) | 7 | 2024-08-05 |
+| Yes | Visitors (B1/B2)  | 44 | 2024-09-11 |
+| Yes | Students/Exchange Visitors (F, M, J) | 2 | 2024-07-31 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 31 | 2024-08-29 |
+| Yes | Crew and Transit (C, D, C1/D) | 32 | 2024-08-30 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2024-07-30 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2024-07-30 |
 | Waiver | Crew and Transit (C, D, C1/D) | 1 | 2024-07-30 |
