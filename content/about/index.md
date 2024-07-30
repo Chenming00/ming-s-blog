@@ -57,11 +57,11 @@ GitHub: [missuo](https://github.com/missuo)
 
 | Model                  | Version |
 |------------------------|--------|
-| Apple Watch SE         | 🇺🇸 US |
-| AirPods 2              | 🇺🇸 US |
-| KeyChron K2            | 🇺🇸 US |
-| MacBook Pro 2019       | 🇺🇸 US |
-| iPad Air 4             | 🇺🇸 US |
+| Apple Watch SE         | 🇨🇳 CN |
+| AirPods 2              | 🇨🇳 CN |
+| KeyChron K2            | 🇨🇳 CN |
+| MacBook Pro 2019       | 🇨🇳 CN |
+| iPad Air 4             | 🇨🇳 CN |
 | SONGREN 4K Display     | 🇨🇳 CN |
 
 ## 💰 Sponsor
