@@ -28,31 +28,41 @@ Instagram: [missuo.me](https://instagram.com/missuo.me)
 GitHub: [missuo](https://github.com/missuo)  
 
 ## 📱 My device
-Mac Studio 2022 (🇺🇸 US)  
-MacBook Pro 2021 (🇺🇸 US)  
-Mac mini 2020 (🇺🇸 US)  
-iPad mini 6 (🇺🇸 US)  
-iPhone 15 Pro Max (🇺🇸 US)  
-iPhone 12 Pro (🇺🇸 US)  
-iPhone SE 3 (🇺🇸 US)  
-Google Pixel 6a (🇺🇸 US)  
-Xiaomi Civi (🇨🇳 CN)  
-Apple Watch Series 9 (🇺🇸 US)  
-AirPods Pro 2 (🇺🇸 US)  
-Magic Keyboard (🇺🇸 US)  
-Magic Keyboard with Touch ID (🇺🇸 US)  
-Magic Trackpad (🇺🇸 US)  
-LG Monitor 27UL550-W (🇺🇸 US)  
-Readmi Router AX6000 (🇨🇳 CN)  
-NETGEAR Router R6700AXS (🇺🇸 US)  
-ASUS Router RT-AX1800S (🇺🇸 US)  
-Lenovo ThinkStation P520 (🇺🇸 US)  
-~~Apple Watch SE~~
-~~AirPods 2~~  
-~~KeyChron K2~~  
-~~Macbook Pro 2019~~  
-~~iPad Air 4~~  
-~~SONGREN 4K Display~~   
+
+### Still in service
+
+| Model                      | Version |
+|----------------------------|--------|
+| Mac Studio 2022            | 🇺🇸 US |
+| MacBook Pro 2021           | 🇺🇸 US |
+| Mac mini 2020              | 🇺🇸 US |
+| iPad mini 6                | 🇺🇸 US |
+| iPhone 15 Pro Max          | 🇺🇸 US |
+| iPhone 12 Pro              | 🇺🇸 US |
+| iPhone SE 3                | 🇺🇸 US |
+| Google Pixel 6a            | 🇺🇸 US |
+| Xiaomi Civi                | 🇨🇳 CN |
+| Apple Watch Series 9       | 🇺🇸 US |
+| AirPods Pro 2              | 🇺🇸 US |
+| Magic Keyboard             | 🇺🇸 US |
+| Magic Keyboard with Touch ID | 🇺🇸 US |
+| Magic Trackpad             | 🇺🇸 US |
+| LG Monitor 27UL550-W       | 🇺🇸 US |
+| Readmi Router AX6000       | 🇨🇳 CN |
+| NETGEAR Router R6700AXS    | 🇺🇸 US |
+| ASUS Router RT-AX1800S     | 🇺🇸 US |
+| Lenovo ThinkStation P520   | 🇺🇸 US |
+
+### Retired
+
+| Model                  | Version |
+|------------------------|--------|
+| Apple Watch SE         | 🇺🇸 US |
+| AirPods 2              | 🇺🇸 US |
+| KeyChron K2            | 🇺🇸 US |
+| MacBook Pro 2019       | 🇺🇸 US |
+| iPad Air 4             | 🇺🇸 US |
+| SONGREN 4K Display     | 🇨🇳 CN |
 
 ## 💰 Sponsor
 <iframe src="https://github.com/sponsors/missuo/button" title="Sponsor missuo" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
