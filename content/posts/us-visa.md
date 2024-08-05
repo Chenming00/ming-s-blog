@@ -10,7 +10,7 @@ tags: [US, Visa]
 
 ## Information
 
-**Last updated on: 2024-08-05 14:01:36** (Updated every 3 hours)
+**Last updated on: 2024-08-05 17:01:29** (Updated every 3 hours)
     
 ### Beijing - P24
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
@@ -29,10 +29,10 @@ tags: [US, Visa]
 ### Shanghai - P187
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 87 | 2024-10-31 |
-| Yes | Students/Exchange Visitors (F, M, J) | 36 | 2024-09-10 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 80 | 2024-10-24 |
-| Yes | Crew and Transit (C, D, C1/D) | 42 | 2024-09-16 |
+| Yes | Visitors (B1/B2)  | 85 | 2024-10-29 |
+| Yes | Students/Exchange Visitors (F, M, J) | 30 | 2024-09-04 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 46 | 2024-09-20 |
+| Yes | Crew and Transit (C, D, C1/D) | 36 | 2024-09-10 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2024-08-06 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2024-08-06 |
 | Waiver | Crew and Transit (C, D, C1/D) | 1 | 2024-08-06 |
@@ -43,10 +43,10 @@ tags: [US, Visa]
 ### Guangzhou - P73
 | Interview Required | Visa Type | Waiting Time (Calendar Days) | Estimated Time |
 |----------|----------|----------|----------|
-| Yes | Visitors (B1/B2)  | 56 | 2024-09-30 |
-| Yes | Students/Exchange Visitors (F, M, J) | 8 | 2024-08-13 |
-| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 8 | 2024-08-13 |
-| Yes | Crew and Transit (C, D, C1/D) | 3 | 2024-08-08 |
+| Yes | Visitors (B1/B2)  | 51 | 2024-09-25 |
+| Yes | Students/Exchange Visitors (F, M, J) | 9 | 2024-08-14 |
+| Yes | Petition-Based Temporary Workers (H, L, O, P, Q) | 9 | 2024-08-14 |
+| Yes | Crew and Transit (C, D, C1/D) | 10 | 2024-08-15 |
 | Waiver | Students/Exchange Visitors (F, M, J) | 1 | 2024-08-06 |
 | Waiver | Petition-Based Temporary Workers (H, L, O, P, Q) | 1 | 2024-08-06 |
 | Waiver | Crew and Transit (C, D, C1/D) | 1 | 2024-08-06 |
