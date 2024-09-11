@@ -47,7 +47,7 @@ iface lo inet6 static
     address 2a06:a005:1c40::ffff/128
 ```
 
-当然，这样的配置可以工作，但是显然我不可能将整个 /64 全部以这样的方式添加。在 [https://www.reddit.com/r/ipv6/comments/dp88q0/so_what_is_best_practice_for_loopback_128_or_64/](https://www.reddit.com/r/ipv6/comments/dp88q0/so_what_is_best_practice_for_loopback_128_or_64/) 找到了答案。
+当然，这样的配置可以工作，但是显然我不可能将整个 /64 全部以这样的方式添加。在 [Reddit](https://www.reddit.com/r/ipv6/comments/dp88q0/so_what_is_best_practice_for_loopback_128_or_64/) 找到了答案。
 
 ```
 ip route add local 2a06:a005:1c40::/64 dev lo
@@ -80,9 +80,9 @@ net.ipv6.ip_nonlocal_bind=1
 
 ## 创建 HTTP 代理池
 
-我用到的是 [zu1k](https://github.com/zu1k) 的 [https://github.com/missuo/http-proxy-ipv6-pool](https://github.com/missuo/http-proxy-ipv6-pool) 。由于 zu1k 提供的是 DEMO，并没有编译，因此需要自己完成编译。
+我用到的是 [zu1k](https://github.com/zu1k) 的 [zu1k/http-proxy-ipv6-pool](https://github.com/zu1k/http-proxy-ipv6-pool) 。由于 zu1k 提供的是 DEMO，并没有编译，因此需要自己完成编译。
 
-我自己配置了一下 Actions，编译了 `http-proxy-ipv6-pool` ，并把编译好的文件上传到了 [https://github.com/missuo/http-proxy-ipv6-pool/releases](https://github.com/missuo/http-proxy-ipv6-pool/releases) 。
+我自己配置了一下 Actions，编译了 `http-proxy-ipv6-pool` ，并把编译好的文件上传到了 [missuo/http-proxy-ipv6-pool/releases](https://github.com/missuo/http-proxy-ipv6-pool/releases) 。
 
 请注意，如果你使用 [v1.0.0](https://github.com/missuo/http-proxy-ipv6-pool/releases/tag/v1.0.0) 版本，则是原版。如果你使用 [v1.0.1](https://github.com/missuo/http-proxy-ipv6-pool/releases/tag/v1.0.1) 版本，则是修改了部分代码，支持了 HTTP 代理的 Authentication 功能。你可以使用以下命令在启动时设置 `Username` 和 `Password` 。
 
@@ -128,7 +128,7 @@ curl --proxy http://your_username:your_password@your_ip:51080 http://ipv6.ip.sb
 }
 ```
 
-通过 [https://scamalytics.com/ip/2a06%253Aa005%253A1c40%253A%253A1](https://scamalytics.com/ip/2a06%253Aa005%253A1c40%253A%253A1) 可见，IP 的风险分数为 `0` ，风险等级为 `low` 。
+通过 [Scamalytics](https://scamalytics.com/ip/2a06%253Aa005%253A1c40%253A%253A1) 可见，IP 的风险分数为 `0` ，风险等级为 `low` 。
 
 ## 说明
 
