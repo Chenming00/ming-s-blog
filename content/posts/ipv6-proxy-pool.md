@@ -90,7 +90,9 @@ net.ipv6.ip_nonlocal_bind=1
 ./http-proxy-ipv6-pool -u your_username -p your_password -b 0.0.0.0:51080 -i 2a06:a005:1c40::/64
 ```
 
-最后，测试你的 IPv6 代理池是否可以工作。
+## 测试
+
+测试你的 IPv6 代理池是否可以工作。
 
 ```bash
 curl --proxy http://your_username:your_password@your_ip:51080 http://ipv6.ip.sb
@@ -99,6 +101,34 @@ curl --proxy http://your_username:your_password@your_ip:51080 http://ipv6.ip.sb
 顺利的话，你应该会得到以下结果。
 
 ![20240911V6b5br](https://r2.qwq.mx/blog/20240911V6b5br.png)
+
+```json
+{
+  "ip": "2a06:a005:1c40::1",
+  "city": "Toronto",
+  "region": "Ontario",
+  "country": "CA",
+  "loc": "43.7064,-79.3986",
+  "org": "AS206729 Vincent Yang",
+  "postal": "M5A",
+  "timezone": "America/Toronto",
+  "readme": "https://ipinfo.io/missingauth"
+}
+```
+
+![20240911iTO991](https://r2.qwq.mx/blog/20240911iTO991.png)
+
+通过 [IPInfo](https://ipinfo.io/2a06:a005:1c40::1) 可见，IP 完全是原生的，来自加拿大多伦多。
+
+```json
+{
+    "ip":"2a06:a005:1c40::1",
+    "score":"0",
+    "risk":"low"
+}
+```
+
+通过 [https://scamalytics.com/ip/2a06%253Aa005%253A1c40%253A%253A1](https://scamalytics.com/ip/2a06%253Aa005%253A1c40%253A%253A1) 可见，IP 的风险分数为 `0` ，风险等级为 `low` 。
 
 ## 说明
 
