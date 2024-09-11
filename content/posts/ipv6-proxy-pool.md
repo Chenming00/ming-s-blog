@@ -61,7 +61,13 @@ ip route add local 2a06:a005:1c40::/64 dev lo
 curl --interface 2406:a005:1c40::1 ipv6.ip.sb
 ```
 
-访问外网，发现无论如何都无法访问。
+访问外网，发现无论如何都无法访问。得到了以下错误。
+
+```bash
+curl: (99) Cannot assign requested address
+```
+
+经过检查，发现是 `net.ipv6.ip_nonlocal_bind` 没有设置。
 
 ```bash
 sysctl net.ipv6.ip_nonlocal_bind=1
