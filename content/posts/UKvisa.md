@@ -5,9 +5,9 @@ draft: false
 tags: [visa, UK]
 ---
 
-# 记一次F1在美国搞英国🇬🇧签证
+记一次F1在美国搞英国🇬🇧签证
 > 网上虽然有很多英国签证的攻略了，但是我想记录一下我的时间线。
-
+- - -
 ## 09/12/2024 填表和预约
 英国签证在美国的价格是：
 ![visa价格](https://yun.cmand.top/uploads/blog/visa.png "价格")
@@ -29,8 +29,10 @@ tags: [visa, UK]
 4. 银行对账单
 5. I-94
 6. US驾驶证(用于验证地址)
+- - -
 ## 09/18/2024 
 我购买了票帝的UPS Label，英国签证只能用UPS Label寄回。
 [票帝邮寄服务价格查询](https://docs.google.com/spreadsheets/d/1zfc-xUQgRe-Dt4i2U23S59GWOXD1LPompKMI-w2ULfM/edit)
 我从DC寄出 去时Fedex，回来时UPS一共$45
+
 
