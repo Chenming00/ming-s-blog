@@ -1,4 +1,4 @@
-baseURL: 'https://missuo.me'
+baseURL: 'https://blog.cmand.top'
 languageCode: en-us
 title: Vincent's Notes
 theme: PaperMod
@@ -18,7 +18,7 @@ minify:
 
 languages:
     en:
-        title: Vincent's Notes
+        title: Ming's Blog
         languageName: "English"
         weight: 1
         taxonomies:
@@ -44,6 +44,7 @@ languages:
                 - name: About
                   url: about/
                   weight: 5
+              
                 
 
 outputs:
@@ -88,19 +89,17 @@ params:
             I'm **Vincent Young**, operator of [AS206729](https://bgp.he.net/AS206729). I am a master student majoring in computer science at [University of Pittsburgh](https://www.pitt.edu). I am a **BGP** and **Linux** enthusiast, and an open source project contributor. You can get to know me on the [about](https://missuo.me/about) page.
     socialIcons:
         - name: github
-          url: "https://github.com/missuo"
+          url: "https://github.com/chenming1015"
         - name: twitter
-          url: "https://twitter.com/m1ssuo"
+          url: "https://twitter.com/Will_cm"
         - name: instagram
-          url: "https://instagram.com/missuo.me"
+          url: "https://instagram.com/William_chenming"
         - name: discord
-          url: "https://discordapp.com/users/missuo#7448"
+          url: "https://discordapp.com/users/mingisme2"
         - name: telegram
-          url: "https://t.me/missuo"
+          url: "https://t.me/mingisme"
         - name: tiktok
-          url: "https://www.tiktok.com/@m1ssuo"
-        - name: youtube
-          url: "https://youtube.com/@missuo"
+          url: "https://www.tiktok.com/@mingchen895"
         - name: rss
           url: "https://missuo.me/index.xml"
 
