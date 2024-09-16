@@ -2,7 +2,7 @@
 title: "Record an F1 to get a British visa in the United States"
 date: 2024-09-16T00:28:45+08:00
 draft: false
-tags: [OwO, Network]
+tags: [visa, UK]
 ---
 
 # 记一次F1在美国搞英国🇬🇧签证
