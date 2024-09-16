@@ -86,7 +86,7 @@ params:
     homeInfoParams:
         Title: "Hi there 👋"
         Content: >
-            I'm **Vincent Young**, operator of [AS206729](https://bgp.he.net/AS206729). I am a master student majoring in computer science at [University of Pittsburgh](https://www.pitt.edu). I am a **BGP** and **Linux** enthusiast, and an open source project contributor. You can get to know me on the [about](https://missuo.me/about) page.
+            Currently, I am pursuing a Master's degree in Management at the ~[University of Florida](https://www.ufl.edu/)~. Previously, I completed my Bachelor's degree in Strategic Communication at ~[The University of Utah](https://www.utah.edu/)~. I have experience in finance, product development, and media operations.
     socialIcons:
         - name: github
           url: "https://github.com/chenming00"
