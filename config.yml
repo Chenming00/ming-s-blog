@@ -58,7 +58,7 @@ params:
     title: "Vincent's Notes"
     description: "Record, Share and Archive"
     keywords: [Blog, Technologic, Networking, Program, Travel, BGP]
-    author: Vincent Young
+    author: MING
     images: ["https://r2.qwq.mx/blog/20240331dCkqHY.jpg"]
     DateFormat: "Monday, January 2, 2006"
     defaultTheme: auto
