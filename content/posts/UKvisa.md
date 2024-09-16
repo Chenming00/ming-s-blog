@@ -2,10 +2,10 @@
 title: "Record an F1 to get a British visa in the United States"
 date: 2024-09-16T00:28:45+08:00
 draft: false
-tags: [UK, Visa]
+tags: [OwO, Network]
 ---
 
-# 记一次F1在美国搞英国🇬🇧签证
+记一次F1在美国搞英国🇬🇧签证
 > 网上虽然有很多英国签证的攻略了，但是我想记录一下我的时间线。
 
 ## 09/12/2024：填表和预约
@@ -17,13 +17,16 @@ tags: [UK, Visa]
 | **2 year long-term Standard Visitor visa** | £432 | 6 months per visit |
 | **5 year long-term Standard Visitor visa** | £771 | 6 months per visit |
 | **10 year long-term Standard Visitor visa** | £963 | 6 months per visit |
+
 我申请的是**Standard Visitor visa** 有效期是180天，在国内申请同价格直接升级2年的有效期。
 这个链接可以直接进入申请页面：[🔗](https://visas-immigration.service.gov.uk/apply-visa-type/visit)
 #### 申请表注意的事项有：
 1. 如果有共同出行的人要分开申请
 2. 确保信息填写的准确性
+
 填写完申请表，我选的是USCIS录指纹9月20日下午。
 **ASC标准服务**，你在线上传**英语**材料，然后去USCIS ASC录指纹，之后寄出护照贴签。没有额外的费用，一般处理时间是15个工作日之内，从交指纹的那天开始算。
+
 #### 我上传的文件有：
 1. 护照信息页
 2. I-20 
