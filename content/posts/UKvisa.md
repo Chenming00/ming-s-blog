@@ -10,7 +10,7 @@ tags: [OwO, Network]
 
 ## 09/12/2024 填表和预约
 英国签证在美国的价格是：
-![visa价格](https://cloud.cmand.top/uploads/blog/visa.png "价格")
+![visa价格](https://yun.cmand.top/uploads/blog/visa.png "价格")
 
 我申请的是**Standard Visitor visa** 有效期是180天，在国内申请同价格直接升级2年的有效期。
 这个链接可以直接进入申请页面：[🔗](https://visas-immigration.service.gov.uk/apply-visa-type/visit)
