@@ -13,6 +13,7 @@ tags: [visa, UK]
 ![visa价格](https://yun.cmand.top/uploads/blog/visa.png "价格")
 
 我申请的是**Standard Visitor visa** 有效期是180天，在国内申请同价格直接升级2年的有效期。
+
 这个链接可以直接进入申请页面：[🔗](https://visas-immigration.service.gov.uk/apply-visa-type/visit)
 
 申请表注意的事项有：
