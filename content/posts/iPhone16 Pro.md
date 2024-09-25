@@ -1,9 +1,9 @@
 ---
-title: iPhone16 Pro Photo
+title: WebP Photo
 date: 2024-09-16T00:28:45+08:00
 draft: false
 tags:
-  - iPhone
+  - webp
 ---
 ![](https://r2webp.cmand.top/https://r2.cmand.top/20231016_225114789_iOS.jpg)
 ![](https://r2webp.cmand.top/https://r2.cmand.top/20231016_222900097_iOS.jpg)
