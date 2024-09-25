@@ -39,5 +39,17 @@ tags: [visa, UK]
 [票帝邮寄服务价格查询](https://docs.google.com/spreadsheets/d/1zfc-xUQgRe-Dt4i2U23S59GWOXD1LPompKMI-w2ULfM/edit)
 
 我从DC寄出 去时Fedex，回来时UPS一共$45
-![](https://r2webp.cmand.top/https://r2.cmand.top/freeman-zhou-oV9hp8wXkPE-unsplash.jpg)
-![](https://r2webp.cmand.top/https://r2.cmand.top/freeman-zhou-oV9hp8wXkPE-unsplash.jpg)
+
+## 09/22/2024
+我没有使用piao.tips的服务
+我找到了一家~~更好用~~（价格更便宜）[https://www.shipsaving.com/zh-cn/shipsaving-for-starter](https://www.shipsaving.com/zh-cn/shipsaving-for-starter)
+DC到NYC 2Day Air 10USD
+返回的面单是到佛罗里达 一起在网页上创建的 12USD 也是 2Day Air
+![](https://r2webp.cmand.top/https://r2.cmand.top/20240924234424.png)
+直接投递到 DC的UPS站点
+![](https://r2webp.cmand.top/https://r2.cmand.top/20240924234146.png)
+
+## 09/24/2024
+UPS和VFS提示已经签收和收到文件
+![](https://r2webp.cmand.top/https://r2.cmand.top/20240924234819.png)
+![](https://r2webp.cmand.top/https://r2.cmand.top/20240924234937.png)
