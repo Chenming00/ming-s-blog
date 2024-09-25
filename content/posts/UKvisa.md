@@ -43,11 +43,11 @@ tags: [visa, UK]
 ## 09/22/2024
 我没有使用piao.tips的服务
 我找到了一家~~更好用~~（价格更便宜）[https://www.shipsaving.com/zh-cn/shipsaving-for-starter](https://www.shipsaving.com/zh-cn/shipsaving-for-starter)
+
 DC到NYC 2Day Air 10USD
 返回的面单是到佛罗里达 一起在网页上创建的 12USD 也是 2Day Air
 ![](https://r2webp.cmand.top/https://r2.cmand.top/20240924234424.png)
 直接投递到 DC的UPS站点
-![](https://r2webp.cmand.top/https://r2.cmand.top/20240924234146.png)
 
 ## 09/24/2024
 UPS和VFS提示已经签收和收到文件
