@@ -20,6 +20,18 @@ tags: [visa, UK]
 1. 如果有共同出行的人要分开申请
 2. 确保信息填写的准确性
 
+
+![](https://r2.cmand.us/aaron-burden--IQGXSMLYJc-unsplash.jpg)
+![](https://r2.cmand.us/freeman-zhou-oV9hp8wXkPE-unsplash.jpg)
+
+
+![](https://r2.cmand.us/aaron-burden--IQGXSMLYJc-unsplash.jpg)
+![](https://r2.cmand.us/freeman-zhou-oV9hp8wXkPE-unsplash.jpg)
+
+
+![](https://r2.cmand.us/aaron-burden--IQGXSMLYJc-unsplash.jpg)
+![](https://r2.cmand.us/freeman-zhou-oV9hp8wXkPE-unsplash.jpg)
+
 填写完申请表，我选的是USCIS录指纹9月20日下午。
 
 **ASC标准服务**，你在线上传**英语**材料，然后去USCIS ASC录指纹，之后寄出护照贴签。没有额外的费用，一般处理时间是15个工作日之内，从交指纹的那天开始算。
@@ -38,7 +50,3 @@ tags: [visa, UK]
 [票帝邮寄服务价格查询](https://docs.google.com/spreadsheets/d/1zfc-xUQgRe-Dt4i2U23S59GWOXD1LPompKMI-w2ULfM/edit)
 
 我从DC寄出 去时Fedex，回来时UPS一共$45
-
-
-![](https://r2.cmand.us/aaron-burden--IQGXSMLYJc-unsplash.jpg)
-![](https://r2.cmand.us/freeman-zhou-oV9hp8wXkPE-unsplash.jpg)
