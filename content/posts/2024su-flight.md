@@ -57,7 +57,7 @@ OZ360 当天是由机龄 5 年空客 A321NEO 执飞的，注册号是 `HL8364`�
 ![](https://r2webp.cmand.top/https://r2.cmand.top/20240815_153715639_iOS.jpg) 
 下午去接 LAX 接朋友的时候去了 In n Out 经典机位
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2CVSmCGUkd4?si=hmjRHsVs91rrLtPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2CVSmCGUkd4?si=hmjRHsVs91rrLtPa&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![](https://r2webp.cmand.top/https://r2.cmand.top/20240815_221733331_iOS.jpg)
 ## 8/15
