@@ -46,18 +46,18 @@ tags: [visa, UK]
 
 DC 到 NYC 2Day Air 10USD
 返回的面单是到佛罗里达 一起在网页上创建的 12USD 也是 2Day Air
-![](https://r2webp.cmand.top/https://r2.cmand.top/20240924234424.png)
+![](https://i.uid.si/ming/20240924234424.png)
 直接投递到 DC 的 UPS 站点
 
 ## 09/24/2024
 UPS 和 VFS 提示已经签收和收到文件
-![](https://r2webp.cmand.top/https://r2.cmand.top/20240924234819.png)
-![](https://r2webp.cmand.top/https://r2.cmand.top/20240924234937.png)、
+![](https://i.uid.si/ming/20240924234819.png)
+![](https://i.uid.si/ming/20240924234937.png)、
 
 ## 10/02/2024
 收到 VFS 的邮件，护照已经寄出
 
-![](https://r2webp.cmand.top/https://r2.cmand.top/WeChat%E6%88%AA%E5%9B%BE_20241006003004.png)
+![](https://i.uid.si/ming/WeChat%E6%88%AA%E5%9B%BE_20241006003004.png)
 
 ## 10/05/2024
 收到护照
