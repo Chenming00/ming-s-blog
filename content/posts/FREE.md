@@ -1,9 +1,8 @@
 ---
-title: "免费服务器"
+title: "2024 Presidential Election Interactive Map "
 date: 2024-10-16T00:28:45+08:00
 draft: false
 tags: [free]
 ---
 
-<iframe src="https://cli.h2.nexus" width="100%" height="100%"></iframe>
-
+<a href="https://www.270towin.com/maps/9yXvx"><img src="https://www.270towin.com/map-images/9yXvx.png" width="800"></a>
