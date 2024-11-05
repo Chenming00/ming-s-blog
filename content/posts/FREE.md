@@ -5,4 +5,9 @@ draft: false
 tags: [free]
 ---
 
-<a href="https://www.270towin.com/maps/9yXvx"><img src="https://www.270towin.com/map-images/9yXvx.png" width="800"></a>
+<iframe
+	title="polymarket-election-map-iframe"
+	src="https://polymarket.com/embed/elections/map?event=presidency&theme=light"
+	width="480"
+	height="360"
+/>
