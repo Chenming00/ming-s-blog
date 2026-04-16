@@ -1,6 +1,6 @@
 baseURL: 'https://blog.ming.fi'
 languageCode: en-us
-title: Vincent's Notes
+title: Ming's Blog
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -55,7 +55,7 @@ outputs:
 
 params:
     env: production
-    title: "Vincent's Notes"
+    title: "Ming's Blog"
     description: "Record, Share and Archive"
     keywords: [Blog, Technologic, Networking, Program, Travel, BGP]
     author: MING
@@ -101,7 +101,7 @@ params:
         - name: tiktok
           url: "https://www.tiktok.com/@mingchen895"
         - name: rss
-          url: "https://missuo.me/index.xml"
+          url: "https://blog.ming.fi/index.xml"
 
     assets:
         disableHLJS: false
