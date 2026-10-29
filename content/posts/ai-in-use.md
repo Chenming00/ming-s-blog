@@ -1,53 +1,79 @@
 ---
-title: "AI ​​I am currently using"
+title: "我在用的 AI 工具：2024 年的一份使用记录"
 date: 2024-04-20T08:25:21-04:00
 draft: false
 tags: [AI, LLM, Tools]
+summary: "整理截至 2024 年 4 月的 AI 订阅、API、聚合平台与个人项目，以及当时的使用习惯。"
 ---
 
-> 本文最后更新于 2024 年 4 月 20 日，未来可能会更新更多我在用的 AI 工具。
+> 本文记录截至 **2024 年 4 月 20 日**的使用情况。模型、额度、定价及项目维护状态均保留当时的背景。
 
-2023 年 2 月 ChatGPT 发布以来，已经过去一年多的时间了。作为一个科技爱好者，每一次的 iOS Beta 更新都会让我兴奋不已，我会在第一时间更新，即使有很多的 Bug，我也愿意作为那个上报 Bug 的人。而对于最近一年兴起的生成式 AI 也是如此，我从 2023 年 2 月开始，一直在使用各种类似的工具。一年多过去了，我有必要分享一些我在用的工具，以及最近一年我自己写的相关的项目。
+从 2023 年 2 月开始尝试 ChatGPT，到写下这篇文章时，已经过去了一年多。
 
-从 ChatGPT 的诞生到今天，想要使用这些平台都有一些门槛，最早的 ChatGPT 必须要验证手机号以及需要魔法以外，最让人头大的是支付方式，最初我的帐号的支付都是用的我好朋友 **Ming** 的 BoA 信用卡。然而没过多久我来到了美国，直到今天我有了很多美国银行的银行卡，然而这些平台几乎都诞生于美国，几乎所有的平台都支持给美国的用户使用。因此，我也就有机会体验到很多新的 AI 模型。值得一提的是，目前为止我的所有帐号封号率为 **0%**。
+我一直喜欢试新工具。以前 iOS 一出 Beta 就想升级，哪怕碰到 Bug，也愿意顺手提交反馈。生成式 AI 兴起后，也是同样的心情：先用起来，看看它能帮我做什么。
 
-## 平台
+一年多下来，订阅、API 和自己折腾的项目攒了不少，是时候整理一份使用记录了。
 
-| 平台 | 订阅 | 使用频率 | 使用场景 |
+## 从能用上，到找到适合的工具
+
+最早使用这些平台时，手机号验证、网络和支付都需要花时间处理。最初的订阅，是好朋友 **Ming** 用 BoA 信用卡帮忙支付的。
+
+后来到了美国，有了当地银行卡，体验这些服务方便了许多，也逐渐形成了自己的工具组合。截至原文写作时，我使用中的账号还没有遇到封禁。
+
+## 日常最常用的三个平台
+
+| 平台 | 当时的订阅 | 大致使用占比 | 主要用途 |
 | --- | --- | --- | --- |
-| ChatGPT | Plus & Team | 50% | 写代码 / 文本生成 |
+| ChatGPT | Plus、Team | 50% | 写代码、生成文本 |
 | Claude | Pro | 40% | 写代码 |
-| Perplexity | Pro | 10% | 检索信息 / 搜索引擎 |
+| Perplexity | Pro | 10% | 检索信息、搜索 |
 
-我自己其实最多的场景还是写代码，之前就是单平台，完全依赖 ChatGPT，现在逐渐将这些场景交给 Claude Opus，个人觉得 Opus 比起 GPT-4 的表现更优秀。而 Perplexity 是我最近才开始使用的，主要是用来检索信息，它的优点就是使用次数可以很多，每天 600 次对我来说绰绰有余。
+我的主要使用场景还是写代码。最初几乎完全依赖 ChatGPT，后来逐渐把一部分编程任务交给 Claude Opus。在当时的个人体验中，我更喜欢 Opus 处理这类任务的表现。
 
-## API
+Perplexity 是后来加入的，主要用来查资料。当时记录的每日 600 次额度，对我的使用量来说已经足够。
 
-| API | 模型 | 使用场景 |
+## API：翻译常用，其余备用
+
+| 服务 | 当时使用的模型 | 用途 |
 | --- | --- | --- |
 | OpenAI | GPT-3.5-Turbo | Bob 翻译 |
 | Cohere | Command R+ | Bob 翻译 |
 | Azure | GPT-4 | 备用 |
 | Claude | Opus | 备用 |
-| Bedrock | Haiku / Sonnet | 备用 |
+| Bedrock | Haiku、Sonnet | 备用 |
 
-## 第三方项目
+订阅平台承担日常对话和编程，API 则更多用在翻译插件和自己的小项目里。
 
-- [Lobe Chat](https://github.com/lobehub/lobe-chat)：颜值很高的聚合 AI 平台，可以随意切换各种模型，方便我分享给国内的朋友使用。
-- [Next Chat](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)：现在慢慢抛弃了，只部署了一个 GPT-3.5-Turbo，供朋友免费使用。
-- [one-api](https://github.com/songquanpeng/one-api)：API 聚合平台，支持几乎所有的 API，还支持分发 API Key，方便共享给朋友使用，目前我在使用官方半价的 API Key，同时也支持将所有 API 转换成 OpenAI 的 API。
+## 部署过的第三方项目
 
-## 我的项目
+- **[Lobe Chat](https://github.com/lobehub/lobe-chat)**：界面好看，也方便在不同模型之间切换。我会把部署好的入口分享给朋友。
+- **[Next Chat](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)**：当时已经逐渐减少使用，只保留了一个 GPT-3.5-Turbo 部署供朋友体验。
+- **[one-api](https://github.com/songquanpeng/one-api)**：用来聚合多个服务的 API，统一接口和分发 Key。当时我也在使用价格约为官方一半的 API Key，具体费用属于那一阶段的记录。
 
-- [bob-plugin-cohere](https://github.com/missuo/bob-plugin-cohere)：Cohere 的 Bob 翻译插件，在 Bob 上使用 Cohere 的 Command R+ 模型，目前最常用的翻译模型了。
-- [bob-plugin-copilot](https://github.com/missuo/bob-plugin-copilot)：利用模拟 GitHub Copilot 的请求，在 Bob 上使用 OpenAI 的 GPT-4 模型进行翻译，**目前已经不再维护**。
-- [cohere2openai](https://github.com/missuo/cohere2openai)：将 Cohere 的 API 转换成兼容 OpenAI 的 API，方便在任何兼容 OpenAI 的应用中调用 Cohere 模型。
-- [claude2openai](https://github.com/missuo/claude2openai)：将 Claude 的 API 转换成兼容 OpenAI 的 API，方便在任何兼容 OpenAI 的应用中调用 Claude 模型。
-- [ClaudeProxy](https://github.com/missuo/ClaudeProxy)：Claude API 代理，让所有向 Claude API 发送的请求都来自一个 IP，避免被封号。
-- [FreeGPT35](https://github.com/missuo/FreeGPT35)：利用免登录使用 ChatGPT 实现的免费 GPT-3.5-Turbo API，目前可能随时失效。
+## 我折腾的几个项目
 
-以上项目如果在使用过程中遇到任何问题，请在 GitHub 上提 issue，我会在空余时间尽快解决。如果你有别的需求，也可以在评论区留言，我会考虑实现。
+### Bob 翻译插件
 
-## 一些经验
+- **[bob-plugin-cohere](https://github.com/missuo/bob-plugin-cohere)**：在 Bob 中调用 Cohere Command R+，是我当时最常用的翻译方案。
+- **[bob-plugin-copilot](https://github.com/missuo/bob-plugin-copilot)**：通过模拟 GitHub Copilot 请求，在 Bob 中调用 GPT-4 翻译；截至 2024 年 4 月已停止维护。
 
-建议不要使用美国以外的 IP 请求 Claude 的 API，否则很容易被封号。建议使用美国 Residential IP，实在没条件也可以使用 Business IP。实际测试下来 ChatGPT 和 Claude 帐号可以共享给很多人使用，并不会封号。目前我的帐号大概有 10 个朋友在用，都是来自美国家宽的 IP，已经持续超过半年的时间，没有任何问题。另外，目前 Cohere 是完全免费的，您可以申请一个 Trial Key 来使用！
+### API 适配与代理
+
+- **[cohere2openai](https://github.com/missuo/cohere2openai)**：把 Cohere API 转成 OpenAI 兼容接口，方便接入已有应用。
+- **[claude2openai](https://github.com/missuo/claude2openai)**：为 Claude API 提供 OpenAI 兼容接口。
+- **[ClaudeProxy](https://github.com/missuo/ClaudeProxy)**：集中转发 Claude API 请求，让上游请求来自同一个出口 IP。
+- **[FreeGPT35](https://github.com/missuo/FreeGPT35)**：基于当时免登录使用 ChatGPT 的方式提供 GPT-3.5-Turbo API，当时就存在随时失效的可能。
+
+如果遇到项目问题，可以在对应 GitHub 仓库提交 Issue。我会在有空时处理，也欢迎留下新的需求。
+
+## 当时的使用经验
+
+那段时间，我主要通过美国住宅网络访问服务，也试过商业网络。当时约有 10 位朋友共同使用账号，持续半年多没有遇到封禁。这是彼时这些账号的实际情况，服务规则与其他账号的使用结果还需要分别看待。
+
+Cohere 当时提供的 Trial Key，也是我体验 Command R+ 的入口之一。
+
+回头看，这一年最大的变化，是从只用一个平台，慢慢变成按任务选工具：编程、翻译和检索各有常用的选择。把它们记下来，既方便自己回顾，也给同样爱折腾工具的人留一点参考。
+
+---
+
+> 写作说明：本文由 **GPT** 根据原始内容整理、润色并撰写。

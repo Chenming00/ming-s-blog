@@ -1,80 +1,136 @@
 ---
-title: "环游半个地球：2024summer 美国飞行游记"
+title: "环游半个地球：2024 年夏天的美国飞行游记"
 date: 2024-10-06T00:28:45+08:00
 draft: false
-tags: [flight，USA]
+tags: [flight, USA]
+summary: "从杭州经首尔、檀香山飞往美国本土，记录航班、转机、沿途见闻和一场边飞边玩的夏日旅行。"
 ---
-## 启程
-萌生一个边飞边玩的一整个特种兵之旅。杭州出发，到了 首尔，檀香山，洛杉矶，圣地亚哥。底特律，华盛顿特区，奥兰多。
 
-![](https://i.uid.si/ming/map.gif)
- `*全部时间均为起飞城市当地日期`
+2024 年夏天，我安排了一趟边飞边玩的「特种兵旅行」：从杭州出发，途经首尔、檀香山、洛杉矶、圣地亚哥、底特律和华盛顿特区，最后抵达奥兰多。
 
-| 日期    | 航班号    | 航班      | 机型       |
-| ----- | ------ | ------- | -------- |
-| 08/14 | OZ360  | HGH-ICN | A321NEO  |
-| 08/14 | HA460  | ICN-HNL | A330-200 |
-| 08/14 | HA4    | HNL-LAX | A330-200 |
-| 08/18 | DL764  | SAN-DTW | A321CEO  |
-| 08/19 | DL1558 | DTW-DCA | A321CEO  |
-| 08/23 | B62423 | DCA-MCO | A320     |
+航线连起来，像是绕了半个地球。先把飞行记录放在这里，再慢慢翻看沿途留下的照片。
 
-## 08/14
-这是我第一次从杭州萧山 T4 出发，航站楼很新。
+![这次旅行的路线地图](https://i.uid.si/ming/map.gif)
 
-第一个联程是韩亚航空 OZ360 仁川中转夏威夷航空 HA460
-韩亚和夏威夷航空有协议可以直接行李直挂到檀香山
+## 飞行路线
 
-OZ360 当天是由机龄 5 年空客 A321NEO 执飞的，注册号是 `HL8364`。
-![](https://i.uid.si/ming/20240814_063951040_iOS.jpg)
-航班抵达仁川 T1，T1 航站楼是韩亚的主场，很多免税店和餐馆。
+下表日期均为**起飞城市的当地日期**。
 
-虽然我在杭州已经取到了联程的机票，但是需要在仁川的登机口换成夏威夷航空的票。
+| 日期 | 航班号 | 航线 | 机型 |
+| --- | --- | --- | --- |
+| 08/14 | OZ360 | 杭州 HGH → 首尔 ICN | A321neo |
+| 08/14 | HA460 | 首尔 ICN → 檀香山 HNL | A330-200 |
+| 08/14 | HA4 | 檀香山 HNL → 洛杉矶 LAX | A330-200 |
+| 08/18 | DL764 | 圣地亚哥 SAN → 底特律 DTW | A321ceo |
+| 08/19 | DL1558 | 底特律 DTW → 华盛顿 DCA | A321ceo |
+| 08/23 | B62423 | 华盛顿 DCA → 奥兰多 MCO | A320 |
 
-当天的 ICN-HNL，HA460 是由空客 A330-200 执飞，注册号 `N395HA`，机龄 10 年。
-这个长国际段上没有提供机内 WIFI
-![](https://i.uid.si/ming/20240814_113254783_iOS.jpg) 
-落地的时候在 HNL 看到一堆来着亚洲的航班，特别是日本有 4 个航班都是日本来的，看到了 A380 蓝海龟
-![](https://i.uid.si/ming/20240814_213916315_iOS.jpg)
-![](https://i.uid.si/ming/20240814_220008707_iOS.jpg) 
-入境美国排队太长了，可能是时间的关系，太多航班一起到 HNL 了。上次@missuo 入境超快。
-这次转机时间有 8 小时去檀香山市区转了一圈。
-![](https://i.uid.si/ming/20240815_001957287_iOS.jpg) 
-来了夏威夷当然是需要整一点的 POKE 啦
-![](https://i.uid.si/ming/20240815_015151278_iOS.jpg) 
-夏威夷的税是4% 购物也是~~买买买~~ 很好逛，特别是Tiffany/LV有夏威夷价格比美国本土便宜一点。
-![](https://i.uid.si/ming/20241006020057.png) 
-去海边走了一圈。
+## 8 月 14 日：从杭州出发，经首尔去夏威夷
 
-晚上出发去 LA。夏威夷航空 HA4 A330-200 注册号 `N384HA` 机龄 13 年
-![](https://i.uid.si/ming/20240815_050152628_iOS.jpg) 
-机上有 SpeaceX 的 Starlink 可以使用，但是太困了没有怎么玩。不要登录，免费使用。夏威夷-本土航线提供小食 👍
-![](https://i.uid.si/ming/20240815_073434000_iOS.png) 
-早上抵达洛杉矶 
-![](https://i.uid.si/ming/20240815_153016573_iOS.jpg) 
-去了天文台，看了好莱坞标志和洛杉矶的城市风景
-![](https://i.uid.si/ming/20240815_153143967_iOS.jpg)
-![](https://i.uid.si/ming/20240815_153715639_iOS.jpg) 
-下午去接 LAX 接朋友的时候去了 In n Out 经典机位
+### 杭州 → 首尔：第一次从萧山 T4 出发
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2CVSmCGUkd4?si=hmjRHsVs91rrLtPa&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+这是我第一次从杭州萧山机场 T4 出发，航站楼很新。
 
-![](https://i.uid.si/ming/20240815_221733331_iOS.jpg)
-## 8/15
-洛杉矶迪士尼玩了一天
-![](https://i.uid.si/ming/20240816_222921308_iOS.jpg)
-![](https://i.uid.si/ming/20240816_235139743_iOS.jpg)
-![](https://i.uid.si/ming/20240817_092026000_iOS.jpg)
+第一段是韩亚航空 **OZ360**，到仁川后转乘夏威夷航空 **HA460**。这次联程的行李可以从杭州直挂到檀香山，省去了中途提取行李的麻烦。
 
-## 8/16
-出发 去圣地亚哥
-![](https://i.uid.si/ming/20240817_220146716_iOS.jpg)
+当天 OZ360 由空客 A321neo 执飞，注册号 `HL8364`，当时机龄约 5 年。
 
-![](https://i.uid.si/ming/20240817_221820826_iOS.jpg)
-![](https://i.uid.si/ming/20240818_033715038_iOS.jpg)
-![](https://i.uid.si/ming/20240818_225810293_iOS.jpg)
-![](https://i.uid.si/ming/20240819_003724795_iOS.jpg)
-![](https://i.uid.si/ming/20240819_075831000_iOS.jpg)
-![](https://i.uid.si/ming/20240819_101938396_iOS.jpg)
-![](https://i.uid.si/ming/20240825_103713314_iOS.jpg) 
-![](https://i.uid.si/ming/20240825_104633074_iOS.jpg)
+![从杭州出发的飞行记录](https://i.uid.si/ming/20240814_063951040_iOS.jpg)
+
+航班抵达仁川 T1。这里是韩亚航空的主场，免税店和餐馆都不少。虽然在杭州已经拿到了联程机票，但我仍需要到仁川的登机口换成夏威夷航空的登机牌。
+
+### 首尔 → 檀香山：跨过太平洋
+
+HA460 由空客 A330-200 执飞，注册号 `N395HA`，当时机龄约 10 年。这一段国际航班没有提供机上 Wi-Fi。
+
+![首尔至檀香山航段的记录](https://i.uid.si/ming/20240814_113254783_iOS.jpg)
+
+落地檀香山时，停机坪上有不少从亚洲飞来的航班，其中好几班来自日本，还看到了 A380「蓝海龟」。
+
+![抵达檀香山时的机场记录之一](https://i.uid.si/ming/20240814_213916315_iOS.jpg)
+
+![抵达檀香山时的机场记录之二](https://i.uid.si/ming/20240814_220008707_iOS.jpg)
+
+入境排队比预想中久，可能赶上了多班国际航班集中抵达。和上次 @missuo 很快完成入境的经历比起来，这次等得有些长。
+
+### 在檀香山转机，留八小时逛一逛
+
+这次有约 **8 小时**转机时间，我就去了檀香山市区。
+
+![转机期间的檀香山记录](https://i.uid.si/ming/20240815_001957287_iOS.jpg)
+
+来了夏威夷，当然要吃一份 **Poke**。
+
+![夏威夷的 Poke](https://i.uid.si/ming/20240815_015151278_iOS.jpg)
+
+市区也很好逛。当时购物体感上的税费约在 4% 左右，一些品牌还有夏威夷地区价格，我看到的 Tiffany、LV 部分商品比美国本土便宜一些。这里保留的是那次逛店的印象。
+
+![檀香山转机期间留下的记录](https://i.uid.si/ming/20241006020057.png)
+
+吃完、逛完，再去海边走一圈，这段转机时间也算过得很充实。
+
+### 檀香山 → 洛杉矶：在飞机上补觉
+
+晚上继续乘坐夏威夷航空 **HA4** 前往洛杉矶。执飞机型同样是 A330-200，注册号 `N384HA`，当时机龄约 13 年。
+
+![檀香山至洛杉矶航段的记录](https://i.uid.si/ming/20240815_050152628_iOS.jpg)
+
+这架飞机上可以免费使用 SpaceX 的 **Starlink**，不需要登录。不过连续飞行后实在太困，我没有怎么体验，主要还是补觉。夏威夷到美国本土的这一段还提供了小食，挺不错。
+
+![机上网络与飞行记录](https://i.uid.si/ming/20240815_073434000_iOS.png)
+
+### 抵达洛杉矶：天文台和经典机位
+
+早上抵达洛杉矶。
+
+![抵达洛杉矶的记录](https://i.uid.si/ming/20240815_153016573_iOS.jpg)
+
+之后去了天文台，看好莱坞标志和洛杉矶的城市风景。
+
+![洛杉矶游览记录之一](https://i.uid.si/ming/20240815_153143967_iOS.jpg)
+
+![洛杉矶游览记录之二](https://i.uid.si/ming/20240815_153715639_iOS.jpg)
+
+下午去 LAX 接朋友时，顺路到了 **In-N-Out 附近的经典拍机位置**。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2CVSmCGUkd4?si=hmjRHsVs91rrLtPa&amp;controls=0" title="洛杉矶机场附近的拍机记录" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![洛杉矶机场附近的记录](https://i.uid.si/ming/20240815_221733331_iOS.jpg)
+
+## 8 月 15 日：迪士尼一日游
+
+这一天留给了洛杉矶迪士尼。前一天还在跨越太平洋，这一天已经在乐园里玩了一整天，旅行的切换速度确实很快。
+
+![迪士尼游览记录之一](https://i.uid.si/ming/20240816_222921308_iOS.jpg)
+
+![迪士尼游览记录之二](https://i.uid.si/ming/20240816_235139743_iOS.jpg)
+
+![迪士尼游览记录之三](https://i.uid.si/ming/20240817_092026000_iOS.jpg)
+
+## 8 月 16 日起：前往圣地亚哥，继续这趟旅程
+
+8 月 16 日，从洛杉矶前往圣地亚哥。后面的行程还会经过底特律、华盛顿特区和奥兰多，航班信息已经记在上面的表格里。
+
+原始笔记在这里主要留下了照片，就按当时的顺序继续存档。
+
+![后续旅程照片 01](https://i.uid.si/ming/20240817_220146716_iOS.jpg)
+
+![后续旅程照片 02](https://i.uid.si/ming/20240817_221820826_iOS.jpg)
+
+![后续旅程照片 03](https://i.uid.si/ming/20240818_033715038_iOS.jpg)
+
+![后续旅程照片 04](https://i.uid.si/ming/20240818_225810293_iOS.jpg)
+
+![后续旅程照片 05](https://i.uid.si/ming/20240819_003724795_iOS.jpg)
+
+![后续旅程照片 06](https://i.uid.si/ming/20240819_075831000_iOS.jpg)
+
+![后续旅程照片 07](https://i.uid.si/ming/20240819_101938396_iOS.jpg)
+
+![后续旅程照片 08](https://i.uid.si/ming/20240825_103713314_iOS.jpg)
+
+![后续旅程照片 09](https://i.uid.si/ming/20240825_104633074_iOS.jpg)
+
+---
+
+> 写作说明：本文由 **GPT** 根据原始内容整理、润色并撰写。

@@ -1,64 +1,82 @@
 ---
-title: "Record an F1 to get a British visa in the United States"
+title: "持 F-1 身份在美国申请英国签证：一次完整时间线"
 date: 2024-10-05T00:28:45+08:00
 draft: false
 tags: [visa, UK]
+summary: "记录 2024 年持 F-1 身份在美国申请英国访客签证的材料准备、指纹预约、邮寄与收件过程。"
 ---
 
-记一次 F1 在美国搞英国 🇬🇧 签证
-> 网上虽然有很多英国签证的攻略了，但是我想记录一下我的时间线。
-- - -
-## 09/12/2024 填表和预约
-英国签证在美国的价格是：
-![visa 价格](https://yun.cmand.top/uploads/blog/visa.png "价格")
+2024 年，我持 F-1 身份在美国申请了一次英国 **Standard Visitor visa（标准访客签证）**。网上的攻略已经不少，这篇主要留下自己的办理时间线，以及实际用到的材料和邮寄方式。
 
-我申请的是 **Standard Visitor visa** 有效期是 180 天，在国内申请同价格直接升级 2 年的有效期。
+以下费用和流程均为当次申请记录。
 
-这个链接可以直接进入申请页面：[🔗](https://visas-immigration.service.gov.uk/apply-visa-type/visit)
+## 9 月 12 日：填表，预约录指纹
 
-申请表注意的事项有：
-1. 如果有共同出行的人要分开申请
-2. 确保信息填写的准确性
+先通过[英国签证申请页面](https://visas-immigration.service.gov.uk/apply-visa-type/visit)填写申请表，再预约生物信息采集。
 
+当时看到的签证费用如下：
 
-填写完申请表，我选的是 USCIS 录指纹 9 月 20 日下午。
+![当时英国签证申请页面显示的费用](https://yun.cmand.top/uploads/blog/visa.png "价格")
 
-**ASC 标准服务**，你在线上传 **英语** 材料，然后去 USCIS ASC 录指纹，之后寄出护照贴签。没有额外的费用，一般处理时间是 15 个工作日之内，从交指纹的那天开始算。
+我申请的是有效期 **6 个月**的标准访客签证。原先也留意过在中国申请长期访客签证的安排，但这次实际办理的是在美国申请的 6 个月签证。
 
- 我上传的文件有：
-1. 护照信息页
-2. I-20 
-3. 行程信息
-4. 银行对账单
-5. I-94
-6. US 驾驶证(用于验证地址)
-- - -
-## 09/18/2024 
-我购买了票帝的 UPS Label，英国签证只能用 UPS Label 寄回。
+填表时，我特别注意了两件事：同行的人各自提交申请；姓名、证件和行程等信息逐项核对。
 
-[票帝邮寄服务价格查询](https://docs.google.com/spreadsheets/d/1zfc-xUQgRe-Dt4i2U23S59GWOXD1LPompKMI-w2ULfM/edit)
+### 我选的服务与材料
 
-我从 DC 寄出 去时 Fedex，回来时 UPS 一共$45
+我预约的是 **9 月 20 日下午，在 USCIS ASC 录指纹**。选择 ASC 标准服务后，先在线上传英文材料，录完指纹再邮寄护照用于贴签。当时的流程说明给出的通常处理时间是录指纹后约 15 个工作日，实际进度则以通知为准。
 
-## 09/22/2024
-我没有使用 piao.tips 的服务
-我找到了一家 ~~更好用~~（价格更便宜）[https://www.shipsaving.com/zh-cn/shipsaving-for-starter](https://www.shipsaving.com/zh-cn/shipsaving-for-starter)
+我上传的文件包括：
 
-DC 到 NYC 2Day Air 10USD
-返回的面单是到佛罗里达 一起在网页上创建的 12USD 也是 2Day Air
-![](https://i.uid.si/ming/20240924234424.png)
-直接投递到 DC 的 UPS 站点
+1. 护照信息页。
+2. I-20。
+3. 行程信息。
+4. 银行对账单。
+5. I-94。
+6. 美国驾驶证，用于地址证明。
 
-## 09/24/2024
-UPS 和 VFS 提示已经签收和收到文件
-![](https://i.uid.si/ming/20240924234819.png)
-![](https://i.uid.si/ming/20240924234937.png)、
+## 9 月 18 日：比较邮寄方案
 
-## 10/02/2024
-收到 VFS 的邮件，护照已经寄出
+最初考虑了票帝的邮寄服务，并记录了一个从 DC 寄出、FedEx 去程加 UPS 回程合计约 **45 美元**的方案。相关价格表留在这里：[票帝邮寄服务价格查询](https://docs.google.com/spreadsheets/d/1zfc-xUQgRe-Dt4i2U23S59GWOXD1LPompKMI-w2ULfM/edit)。
 
-![](https://i.uid.si/ming/WeChat%E6%88%AA%E5%9B%BE_20241006003004.png)
+当时的申请流程要求准备 UPS 回邮面单，所以我也开始比较自行购买面单的价格。
 
-## 10/05/2024
-收到护照
-有效期 6 个月
+## 9 月 22 日：改用 ShipSaving，寄出护照
+
+最后没有使用 piao.tips 的方案，而是选择了价格更低的 [ShipSaving](https://www.shipsaving.com/zh-cn/shipsaving-for-starter)。
+
+两张面单都在网页上创建：
+
+| 方向 | 服务 | 费用 |
+| --- | --- | --- |
+| DC → NYC | UPS 2Day Air | 10 美元 |
+| 回寄到佛罗里达 | UPS 2Day Air | 12 美元 |
+| **合计** | | **22 美元** |
+
+![创建邮寄面单的记录](https://i.uid.si/ming/20240924234424.png)
+
+准备好材料后，直接把包裹交到了 DC 的 UPS 站点。
+
+## 9 月 24 日：收到签收通知
+
+UPS 和 VFS 陆续通知，包裹已签收，文件已经收到。
+
+![UPS 签收通知](https://i.uid.si/ming/20240924234819.png)
+
+![VFS 文件接收通知](https://i.uid.si/ming/20240924234937.png)
+
+## 10 月 2 日：护照寄出
+
+收到 VFS 的邮件，通知护照已经寄回。
+
+![VFS 护照寄出邮件](https://i.uid.si/ming/WeChat%E6%88%AA%E5%9B%BE_20241006003004.png)
+
+## 10 月 5 日：收到护照
+
+护照顺利收到，签证有效期为 **6 个月**。从 9 月 12 日填表，到 10 月 5 日拿回护照，这次申请流程就走完了。
+
+把材料、往返面单和每一步的时间放在一起，这次申请的过程就清楚了。留在这里，方便以后再办时参考。
+
+---
+
+> 写作说明：本文由 **GPT** 根据原始内容整理、润色并撰写。
